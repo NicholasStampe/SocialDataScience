@@ -104,6 +104,7 @@ Public Transport Stations,Herfølge,55.4177615,12.1370254
 Public Transport Stations,Eskilstrup,54.856068,11.8853384
 Public Transport Stations,Fjellenstrup,56.1163997,12.2983736
 Public Transport Stations,Græsted syd,56.0632032,12.2956377
+Public Transport Stations,Store Heddinge,55.3093711,12.3859856
 Public Transport Stations,Tarm,55.9100033,8.5204386
 Public Transport Stations,Hørning,56.0823895,10.0381925
 Public Transport Stations,Snedsted,56.8922846,8.5272962
@@ -254,7 +255,6 @@ Public Transport Stations,Faxe Syd,55.2421522,12.1369368
 Public Transport Stations,Tokkerup,55.2832781,12.1427304
 Public Transport Stations,Karise,55.3070046,12.1956227
 Public Transport Stations,Lille Linde,55.3365771,12.219292
-Public Transport Stations,Store Heddinge,55.3094862,12.3856747
 Public Transport Stations,Rødvig,55.2547634,12.3785917
 Public Transport Stations,Varpelev,55.3524557,12.279692
 Public Transport Stations,Klippinge,55.34598,12.3257058
@@ -646,6 +646,7 @@ Public Transport Stations,Christiansfeld Rutebilstation,55.3573976,9.483422
 Public Transport Stations,Universitetsparken,56.167058,10.2076605
 Public Transport Stations,Vejen,55.4758216,9.1357514
 Public Transport Stations,Sundbusserne,56.0340651,12.6155822
+Public Transport Stations,Aalborg Busterminal,57.041640458333326,9.918415141666664
 Public Transport Stations,Kolding Rutebilstation,55.4921493,9.48260956
 Public Transport Stations,Color Line Terminal,57.592953814285714,9.968381838095238
 Public Transport Stations,Varde Station,55.61671643846154,8.484983638461538

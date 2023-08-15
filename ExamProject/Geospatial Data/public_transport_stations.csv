@@ -149,6 +149,7 @@ Public Transport Stations,Fjellenstrup,12.2983736,56.1163997
 Public Transport Stations,Græsted syd,12.2956377,56.0632032
 Public Transport Stations,Impregneringen,14.3202950,57.1911830
 Public Transport Stations,Ekebohult,14.3063486,57.1906904
+Public Transport Stations,Store Heddinge,12.3859856,55.3093711
 Public Transport Stations,Tarm,8.5204386,55.9100033
 Public Transport Stations,Hørning,10.0381925,56.0823895
 Public Transport Stations,Snedsted,8.5272962,56.8922846
@@ -325,7 +326,6 @@ Public Transport Stations,Faxe Syd,12.1369368,55.2421522
 Public Transport Stations,Tokkerup,12.1427304,55.2832781
 Public Transport Stations,Karise,12.1956227,55.3070046
 Public Transport Stations,Lille Linde,12.2192920,55.3365771
-Public Transport Stations,Store Heddinge,12.3856747,55.3094862
 Public Transport Stations,Rødvig,12.3785917,55.2547634
 Public Transport Stations,Varpelev,12.2796920,55.3524557
 Public Transport Stations,Klippinge,12.3257058,55.3459800
@@ -928,6 +928,7 @@ Public Transport Stations,Markaryds järnvägsstation,13.59383371666666666666666
 Public Transport Stations,Brösarps bussterminal,14.09702503333333333333333333,55.72798061666666666666666667
 Public Transport Stations,Svalöv Skolgatan,13.10694421666666666666666667,55.92230858333333333333333333
 Public Transport Stations,Teckomatorps station,13.0858405,55.87119128333333333333333333
+Public Transport Stations,Aalborg Busterminal,9.918415141666666666666666667,57.04164045833333333333333333
 Public Transport Stations,ZOB Schleswig,9.565688011111111111111111111,54.51521758888888888888888889
 Public Transport Stations,Centralplan,13.00036594,55.60854682
 Public Transport Stations,Kolding Rutebilstation,9.48260956,55.4921493
