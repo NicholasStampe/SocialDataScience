@@ -1,4 +1,4 @@
-City,Postal code,Latitude,Longitude,Monthly rent,Aconto,Square meters,Rooms,Floor,Property type,Furnished,Shareable,Pets allowed,Elevator,Senior frendly,Only for students,Balcony/Terrace,Parking,PostalCode_1000-2999,PostalCode_2000-3999,PostalCode_3000-4999,PostalCode_4000-5999,PostalCode_5000-6999,PostalCode_6000-7999,PostalCode_7000-8999,PostalCode_8000-9999,PostalCode_9000-10999
+City,Postal code,Latitude,Longitude,Monthly rent,Aconto,Square meters,Rooms,Floor,Property type,Furnished,Shareable,Pets allowed,Elevator,Senior frendly,Only for students,Balcony/Terrace,Parking,PostalCode_1000-1999,PostalCode_2000-2999,PostalCode_3000-3999,PostalCode_4000-4999,PostalCode_5000-5999,PostalCode_6000-6999,PostalCode_7000-7999,PostalCode_8000-8999,PostalCode_9000-9999
 Odense,5000,55.393856,10.394185,5400.0,800.0,62.0,2.0,2.0,Lejlighed,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0
 Rønde,8410,56.300211,10.477949,7100.0,700.0,100.0,4.0,1.0,Lejlighed,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,1,0
 Aalborg,9400,57.05739,9.936155,5800.0,300.0,64.0,2.0,1.0,Lejlighed,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0,0,0,0,0,0,0,0,1
