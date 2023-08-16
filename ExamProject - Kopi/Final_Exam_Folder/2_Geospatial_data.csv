@@ -1,9 +1,808 @@
 Type,Name,Latitude,Longitude
+Public Transport Stations,Nyborg,55.3138856,10.8035012
+Public Transport Stations,Viby Sjælland,55.5497139,12.0243564
+Public Transport Stations,Rungsted Kyst,55.8824425,12.5315085
+Public Transport Stations,Vedbæk,55.8527265,12.5624471
+Public Transport Stations,Holte,55.8076871,12.4685342
+Public Transport Stations,Hjortøboen,54.9666329,10.4918268
+Public Transport Stations,Rødovre,55.6648012,12.4591846
+Public Transport Stations,Bispebjerg,55.7062098,12.5414024
+Public Transport Stations,Charlottenlund,55.7517662,12.5723525
+Public Transport Stations,Bernstorffsvej,55.7428089,12.5578091
+Public Transport Stations,Sorgenfri,55.7812129,12.4835887
+Public Transport Stations,Virum,55.7961547,12.4729758
+Public Transport Stations,Trekroner,55.6478757,12.1319137
+Public Transport Stations,Nyord (Postbåden Røret),55.0396623,12.1935828
+Public Transport Stations,Jægersborg,55.7618855,12.5215091
+Public Transport Stations,Lyngby Lokal,55.7739528,12.5055467
+Public Transport Stations,Fuglevad,55.7849627,12.4973638
+Public Transport Stations,Brede,55.793725,12.500822
+Public Transport Stations,Ørholm,55.799759,12.5097837
+Public Transport Stations,Ravnholm,55.8020557,12.5196228
+Public Transport Stations,Øster Toreby,54.7598004,11.8354471
+Public Transport Stations,Grænge,54.7741229,11.7649882
+Public Transport Stations,Sakskøbing,54.7965382,11.6350782
+Public Transport Stations,Ryde,54.7850772,11.3721324
+Public Transport Stations,Søllested,54.8111016,11.2703089
+Public Transport Stations,Avnede,54.8289954,11.2151514
+Public Transport Stations,Nakskov,54.8334648,11.1381304
+Public Transport Stations,Vejby,56.0625363,12.1363259
+Public Transport Stations,Ørby,56.0556907,12.1626176
+Public Transport Stations,Helsinge,56.0231203,12.2054546
+Public Transport Stations,Duemose,56.0096416,12.2628678
+Public Transport Stations,Kagerup,55.9974247,12.2860904
+Public Transport Stations,Gribsø Trinbræt,55.9872318,12.3022266
+Public Transport Stations,Færgeoverfarten Kulhuse - Sølager,55.9373116,11.9052677
+Public Transport Stations,Færgeoverfarten Sølager - Kulhuse,55.9443844,11.9024492
+Public Transport Stations,Hundested-Rørvig,55.9451997,11.7673738
+Public Transport Stations,Ølsted,55.9231206,12.0733664
+Public Transport Stations,Hammerum,56.1316708,9.0631533
+Public Transport Stations,Herning Messecenter,56.1237015,8.9445421
+Public Transport Stations,Troldhede,55.9907212,8.7451105
+Public Transport Stations,Bording,56.1467708,9.278635
+Public Transport Stations,Birk Centerpark,56.1253027,9.0297478
+Public Transport Stations,Kibæk,56.0322903,8.852003
+Public Transport Stations,Odense Sygehus,55.3814457,10.3666312
+Public Transport Stations,Fruens Bøge,55.3696571,10.377521
+Public Transport Stations,Hjallese,55.3582232,10.3925876
+Public Transport Stations,Højby,55.3301247,10.4339728
+Public Transport Stations,Årslev,55.3012658,10.4659487
+Public Transport Stations,Pederstrup,55.2833897,10.4860425
+Public Transport Stations,Ringe,55.2388658,10.4818048
+Public Transport Stations,Kliplev,54.9351501,9.397753
+Public Transport Stations,Nørre Alslev,54.8970991,11.885756
+Public Transport Stations,Holme-Olstrup,55.2611533,11.8489455
+Public Transport Stations,Brønderslev,57.2702469,9.9429985
+Public Transport Stations,Vellingshøj,57.4804343,9.9686692
+Public Transport Stations,Skørping,56.8362511,9.8873463
+Public Transport Stations,Støvring,56.8920384,9.843943
+Public Transport Stations,Skalborg,57.0078981,9.8978555
+Public Transport Stations,Arden,56.7689807,9.8597954
+Public Transport Stations,Gedser Leje 1,54.5737384,11.9267303
+Public Transport Stations,Tolne,57.4859024,10.3132975
+Public Transport Stations,Tisvildeleje,56.0593898,12.0779859
+Public Transport Stations,Holløse,56.0595256,12.1172836
+Public Transport Stations,Svebølle,55.6522903,11.2920852
+Public Transport Stations,Skjern,55.9473313,8.4921985
+Public Transport Stations,Aulum,56.2652186,8.7881565
+Public Transport Stations,Fredensborg,55.9770346,12.4069464
+Public Transport Stations,Langerød,55.9812303,12.4515485
+Public Transport Stations,Vildbjerg,56.1980169,8.7690938
+Public Transport Stations,Vallensbæk,55.6233618,12.3867814
+Public Transport Stations,Brøndby Strand,55.6209884,12.4218624
+Public Transport Stations,Avedøre,55.6256622,12.4555838
+Public Transport Stations,Friheden,55.6294229,12.483656
+Public Transport Stations,Åmarken,55.6397684,12.4998659
+Public Transport Stations,Sjælør,55.6515213,12.5267123
+Public Transport Stations,Sydhavn,55.6548839,12.5376084
+Public Transport Stations,Hundige,55.5979984,12.3340961
+Public Transport Stations,Ishøj,55.613379,12.3578947
+Public Transport Stations,Karlslunde,55.566255,12.2697411
+Public Transport Stations,Solrød Strand,55.5333354,12.2181028
+Public Transport Stations,Jersie,55.5214056,12.2089516
+Public Transport Stations,Køge,55.4579793,12.1864669
+Public Transport Stations,Gørløse,55.8867645,12.2021191
+Public Transport Stations,Brøndby Strand Station,55.6212653,12.423369
+Public Transport Stations,Nivå,55.9334337,12.5062517
+Public Transport Stations,Greve,55.5816884,12.2966496
+Public Transport Stations,Ribe,55.3276252,8.7702871
+Public Transport Stations,Kalundborg,55.6777772,11.0898869
+Public Transport Stations,Struer,56.4915771,8.6017794
+Public Transport Stations,Viborg,56.4471382,9.3984137
+Public Transport Stations,Hals,56.9910064,10.3046749
+Public Transport Stations,Lyngby Station,55.7686229,12.5036301
+Public Transport Stations,Sorø,55.4190441,11.569258
+Public Transport Stations,Næssund Færgen,56.740062,8.487151
+Public Transport Stations,Vordingborg,55.0118034,11.89923
+Public Transport Stations,Birkerød,55.8403845,12.4235029
+Public Transport Stations,Hovmarken,56.2342782,10.2556454
+Public Transport Stations,Kolind,56.3628841,10.5875178
+Public Transport Stations,Hessel,56.390005,10.8721102
+Public Transport Stations,Marstal Færgehavn,54.8564101,10.5215251
+Public Transport Stations,Christiansø,55.3207393,15.1860027
+Public Transport Stations,Herfølge,55.4177615,12.1370254
+Public Transport Stations,Eskilstrup,54.856068,11.8853384
+Public Transport Stations,Fjellenstrup,56.1163997,12.2983736
+Public Transport Stations,Græsted syd,56.0632032,12.2956377
+Public Transport Stations,Store Heddinge,55.3093711,12.3859856
+Public Transport Stations,Tarm,55.9100033,8.5204386
+Public Transport Stations,Hørning,56.0823895,10.0381925
+Public Transport Stations,Snedsted,56.8922846,8.5272962
+Public Transport Stations,Padborg,54.8235559,9.3589629
+Public Transport Stations,Teglgårdsvej,57.4602346,9.9628548
+Public Transport Stations,Herregårdsparken,57.4732312,9.9658307
+Public Transport Stations,Tunøfærgen,55.911801,10.2586746
+Public Transport Stations,Molslinien Odden,55.9745617,11.2996853
+Public Transport Stations,Faxe Ladeplads,55.2169821,12.1619457
+Public Transport Stations,Søby Havn,54.9413768,10.2590448
+Public Transport Stations,Hurtigfærgerne,55.0997692,14.6913238
+Public Transport Stations,Herlev,55.7188384,12.4435483
+Public Transport Stations,Buddinge,55.7471585,12.4941762
+Public Transport Stations,Blovstrød Hallen,55.8649715,12.3828421
+Public Transport Stations,Oskar Jensens Bro,55.8583852,12.3754988
+Public Transport Stations,Vrist,56.6015949,8.1484001
+Public Transport Stations,Klinkby,56.5654011,8.2196991
+Public Transport Stations,Lemvig,56.5469936,8.3000424
+Public Transport Stations,Victoria Street Station,56.5775419,8.1431155
+Public Transport Stations,Nyhavn,55.6791344,12.5943156
+Public Transport Stations,"MF Hammershus, MF Povl Anker",55.0996667,14.6894519
+Public Transport Stations,Nykøbing Sj,55.9217056,11.6733626
+Public Transport Stations,Egøje,55.4243351,12.1900413
+Public Transport Stations,Ebeltoft-Odden,56.1553041,10.6671251
+Public Transport Stations,Islev,55.6988768,12.469386
+Public Transport Stations,Jyllingevej,55.6903652,12.4779237
+Public Transport Stations,Skovlunde,55.7230635,12.4027132
+Public Transport Stations,Måløv,55.7473861,12.3181279
+Public Transport Stations,Frederikssund,55.8349843,12.0661855
+Public Transport Stations,Ølstykke,55.7957669,12.1593166
+Public Transport Stations,Egedal,55.7797855,12.1854997
+Public Transport Stations,Veksø,55.749917,12.2405908
+Public Transport Stations,Kildedal,55.7519613,12.2864603
+Public Transport Stations,Vesterport,55.675817,12.56241
+Public Transport Stations,Dybbølsbro,55.6650983,12.5595897
+Public Transport Stations,Ryparken,55.7154843,12.5596915
+Public Transport Stations,Svanemøllen,55.7155342,12.5788253
+Public Transport Stations,Nordhavn,55.7049718,12.5910118
+Public Transport Stations,Bagsværd,55.7615864,12.4545574
+Public Transport Stations,Stengården,55.7567178,12.4731006
+Public Transport Stations,Vangede,55.7392848,12.5242143
+Public Transport Stations,Kildebakke,55.7446631,12.5079642
+Public Transport Stations,Dyssegård,55.7323761,12.5360326
+Public Transport Stations,Værløse,55.7824512,12.3719152
+Public Transport Stations,Hareskov,55.7652202,12.4079689
+Public Transport Stations,Skovbrynet,55.7651626,12.4337301
+Public Transport Stations,Farum,55.8121053,12.3737085
+Public Transport Stations,Hellerup,55.7305908,12.566911
+Public Transport Stations,Gentofte,55.7535946,12.541436
+Public Transport Stations,Frederiksværk,55.9684351,12.0194657
+Public Transport Stations,Næstved Nord,55.2482225,11.7863882
+Public Transport Stations,Nørrebro,55.7006813,12.5378036
+Public Transport Stations,Fuglebakken,55.6953074,12.5266803
+Public Transport Stations,Flintholm,55.6855434,12.4988664
+Public Transport Stations,Grøndal,55.6905327,12.5153054
+Public Transport Stations,Danshøj,55.6643892,12.4937549
+Public Transport Stations,Ålholm,55.6720657,12.4931707
+Public Transport Stations,KB Hallen,55.6778138,12.4923389
+Public Transport Stations,Vigerslev Allé,55.6597688,12.4990504
+Public Transport Stations,Emdrup,55.7207286,12.5410549
+Public Transport Stations,Randers,56.4617821,10.0212525
+Public Transport Stations,Randers - Busterminal,56.4586256,10.0398597
+Public Transport Stations,Skodsborg,55.8234905,12.5716763
+Public Transport Stations,Glostrup Station,55.6634929,12.3975969
+Public Transport Stations,Varde Vest,55.6244403,8.4759347
+Public Transport Stations,Himmelbjergbådene,56.0930619,9.7535299
+Public Transport Stations,Rødby Færge,54.6549052,11.354899
+Public Transport Stations,Ulfborg,56.2717392,8.3251704
+Public Transport Stations,Henne,55.7103473,8.3043317
+Public Transport Stations,Taulov,55.5448879,9.6156777
+Public Transport Stations,Høng,55.5069459,11.285778
+Public Transport Stations,Thyborøn Kirke,56.6981955,8.2069903
+Public Transport Stations,Grønnehave,56.0401889,12.6110689
+Public Transport Stations,Hornbæk,56.0891468,12.4597507
+Public Transport Stations,Pårup,56.1007761,12.3013937
+Public Transport Stations,Horneby Sand,56.089918,12.4353091
+Public Transport Stations,Kildekrog,56.0926327,12.4236891
+Public Transport Stations,Saunte,56.0770008,12.4855689
+Public Transport Stations,Græsted,56.0728918,12.2867797
+Public Transport Stations,Slotspavillonen,55.9425356,12.3111932
+Public Transport Stations,Mårum,56.0306161,12.3172416
+Public Transport Stations,Skibstrup,56.0783894,12.5131402
+Public Transport Stations,Karinebæk,56.0829775,12.4686067
+Public Transport Stations,Grønholt,55.9531826,12.3694427
+Public Transport Stations,Mørdrup,56.0021658,12.5327463
+Public Transport Stations,Saltrup,56.054409,12.3218282
+Public Transport Stations,Hedehusene,55.6487219,12.1971176
+Public Transport Stations,Lille Skensved,55.5114827,12.1404907
+Public Transport Stations,Ruds Vedby,55.5398975,11.3751861
+Public Transport Stations,Skellebjerg,55.5380698,11.449095
+Public Transport Stations,Vedde,55.5325286,11.5472374
+Public Transport Stations,Tølløse,55.6119686,11.7732185
+Public Transport Stations,Kirke Eskilstrup,55.5741487,11.7652686
+Public Transport Stations,Store Merløse,55.5450353,11.7110174
+Public Transport Stations,Bagmarken,55.5442784,11.685297
+Public Transport Stations,Nyrup,55.542361,11.6525781
+Public Transport Stations,Stenlille,55.5391527,11.5912253
+Public Transport Stations,Lejre,55.6043364,11.9702792
+Public Transport Stations,Vipperød,55.6670078,11.7388715
+Public Transport Stations,Stenhus,55.7153208,11.6872483
+Public Transport Stations,Regstrup,55.6774969,11.612578
+Public Transport Stations,Mørkøv,55.654562,11.5021766
+Public Transport Stations,Knabstrup,55.6648959,11.5538862
+Public Transport Stations,Jyderup,55.6602985,11.3982482
+Public Transport Stations,Hørve,55.7526175,11.4563649
+Public Transport Stations,Ny Hagested,55.7287879,11.5943293
+Public Transport Stations,Gislinge,55.7295576,11.5473031
+Public Transport Stations,Svinninge,55.7234244,11.4678504
+Public Transport Stations,Fårevejle,55.7882281,11.4698018
+Public Transport Stations,Asnæs,55.808577,11.4995742
+Public Transport Stations,Grevinge,55.8030131,11.5513623
+Public Transport Stations,Vig,55.8522077,11.5819286
+Public Transport Stations,Nørre Asmindrup,55.8830623,11.6066198
+Public Transport Stations,Sommerland Sjælland,55.8971898,11.6034977
+Public Transport Stations,Højby Sjælland,55.9105729,11.603638
+Public Transport Stations,Nyled,55.9219566,11.6555929
+Public Transport Stations,Dianalund,55.5339804,11.4996546
+Public Transport Stations,Kratbjerg,55.9664199,12.392047
+Public Transport Stations,Snekkersten,56.0093169,12.5831746
+Public Transport Stations,Lille Kregme,55.9465918,12.0342457
+Public Transport Stations,Kregme,55.9349214,12.0465329
+Public Transport Stations,Skævinge,55.9073352,12.1495823
+Public Transport Stations,Brødeskov,55.8935491,12.2795272
+Public Transport Stations,Hanehoved,55.975101,12.0012103
+Public Transport Stations,Hundested Havn,55.9657624,11.8465877
+Public Transport Stations,Vibehus,55.9602162,11.8730926
+Public Transport Stations,Østerbjerg,55.9767852,11.9136932
+Public Transport Stations,Melby,55.991433,11.971413
+Public Transport Stations,Firhøj,56.0982157,12.356426
+Public Transport Stations,Søborg,56.1005472,12.333882
+Public Transport Stations,Grimstrup,55.91571,12.1021686
+Public Transport Stations,Ny Ellebjerg,55.6537439,12.5140092
+Public Transport Stations,Brøndbyøster,55.6650504,12.4410201
+Public Transport Stations,Ålsgårde,56.0750002,12.5383162
+Public Transport Stations,Hellebæk,56.0666162,12.5540236
+Public Transport Stations,Marienlyst,56.0432857,12.6023376
+Public Transport Stations,Helsingør,56.032885,12.6131788
+Public Transport Stations,Højstrup,56.0480848,12.5932509
+Public Transport Stations,Glostrup,55.663094,12.3987613
+Public Transport Stations,Hvidovre,55.6644909,12.4750154
+Public Transport Stations,Langgade,55.6673952,12.5040869
+Public Transport Stations,Taastrup,55.6524851,12.302094
+Public Transport Stations,Albertslund,55.6581188,12.3537736
+Public Transport Stations,Grubberholm,55.3801116,12.2015518
+Public Transport Stations,Himlingøje,55.37242,12.2155845
+Public Transport Stations,Vallø,55.4001161,12.1920964
+Public Transport Stations,Faxe Syd,55.2421522,12.1369368
+Public Transport Stations,Tokkerup,55.2832781,12.1427304
+Public Transport Stations,Karise,55.3070046,12.1956227
+Public Transport Stations,Lille Linde,55.3365771,12.219292
+Public Transport Stations,Rødvig,55.2547634,12.3785917
+Public Transport Stations,Varpelev,55.3524557,12.279692
+Public Transport Stations,Klippinge,55.34598,12.3257058
+Public Transport Stations,Peter Bangsvej,55.6780325,12.5036407
+Public Transport Stations,Ørestad,55.6283839,12.5802183
+Public Transport Stations,Tårnby,55.6297987,12.601581
+Public Transport Stations,Malmparken,55.7246625,12.3857045
+Public Transport Stations,Horne,57.5593397,9.9725283
+Public Transport Stations,Kvægtorvet,57.4545668,9.9760412
+Public Transport Stations,Skærbæk,55.1587111,8.7715973
+Public Transport Stations,Hammel - Rutebilstation,56.2562024,9.8624099
+Public Transport Stations,Gilleleje Øst,56.1225918,12.3091701
+Public Transport Stations,Stigsnæs Havn,55.2129958,11.2444939
+Public Transport Stations,Bækmarksbro,56.4119465,8.308133
+Public Transport Stations,Nørre Snede Rutebilstation,55.9661434,9.3933125
+Public Transport Stations,Emmersbæk,57.5720644,9.9775439
+Public Transport Stations,Lilleheden,57.5852735,9.9762793
+Public Transport Stations,Glumsø,55.3523853,11.696387
+Public Transport Stations,Bonnet,56.5210031,8.223046
+Public Transport Stations,Hvalpsund-Sundsøre Færgefart,56.70032,9.1917915
+Public Transport Stations,Espergærde Station,55.9962961,12.5497608
+Public Transport Stations,Outrup,55.7171893,8.3445313
+Public Transport Stations,Grindsted Rutebilstation,55.7589942,8.9315056
+Public Transport Stations,Lindevang,55.6834487,12.5131859
+Public Transport Stations,Aalestrup Busterminal,56.6950469,9.4955495
+Public Transport Stations,Næstved,55.2311888,11.7670814
+Public Transport Stations,Bjerringbro,56.3741589,9.6584089
+Public Transport Stations,Vallensbæk Station,55.6231303,12.3885964
+Public Transport Stations,Strande,56.5690639,8.1602768
+Public Transport Stations,Grenå - Anholt,56.4086507,10.9256382
+Public Transport Stations,Holmstrup,55.3619633,10.2719151
+Public Transport Stations,Bred,55.3732621,10.1058038
+Public Transport Stations,Tommerup,55.3495891,10.1828194
+Public Transport Stations,Ejby,55.428674,9.9300034
+Public Transport Stations,Vamdrup,55.4279941,9.2864145
+Public Transport Stations,Kolding,55.4905542,9.4814404
+Public Transport Stations,Sildfærgen,55.0861685,8.5700331
+Public Transport Stations,Områdecenter Hedelund (Esbjerg),55.4888699,8.4959866
+Public Transport Stations,Hinnerup,56.2630315,10.0595198
+Public Transport Stations,Hobro,56.6431381,9.7823381
+Public Transport Stations,Svenstrup,56.9720799,9.8561756
+Public Transport Stations,Aakirkeby Terminalen,55.0724999,14.9131914
+Public Transport Stations,Vrå,57.3547468,9.9421734
+Public Transport Stations,Rønland,56.6567473,8.1947766
+Public Transport Stations,Gråsten,54.9190195,9.5939371
+Public Transport Stations,Tistrup,55.7167199,8.5983293
+Public Transport Stations,Lundby,55.1102983,11.8694404
+Public Transport Stations,Fredericia,55.5684379,9.739523
+Public Transport Stations,Vildsund Vest,56.882449,8.6264271
+Public Transport Stations,Hirtshals,57.5917049,9.9634184
+Public Transport Stations,Helsingør-Helsingborg,56.032946,12.6160047
+Public Transport Stations,Herning Station,56.1338148,8.9774155
+Public Transport Stations,Hillerød,55.9270287,12.311414
+Public Transport Stations,Allerød st.,55.8710098,12.3563603
+Public Transport Stations,"Kokkedal st. Bus(150S,500S,377,384,95N)",55.9027239,12.5022195
+Public Transport Stations,Lufthavnen (Metro),55.6309113,12.6492236
+Public Transport Stations,Varde Kaserne,55.6120504,8.4721676
+Public Transport Stations,Lunderskov,55.4803997,9.3040943
+Public Transport Stations,Forsea,56.0296728,12.6097261
+Public Transport Stations,Ballebro,54.9990072,9.6707708
+Public Transport Stations,Borup Station,55.4940698,11.9722898
+Public Transport Stations,Bredebro,55.056956,8.8231512
+Public Transport Stations,Bur,56.3677389,8.4279829
+Public Transport Stations,Gårde,55.7652974,8.6115365
+Public Transport Stations,Hee,56.1440538,8.2867545
+Public Transport Stations,Hjerm,56.4388053,8.6398964
+Public Transport Stations,Hjortshøj,56.2446348,10.2685378
+Public Transport Stations,Jyderup St.,55.6600009,11.3992251
+Public Transport Stations,Nivå st.,55.9340773,12.5058579
+Public Transport Stations,"Banegårdspladsen, afsætning (Næstved St)",55.2321281,11.7655718
+Public Transport Stations,Ringsted station,55.4386193,11.785293
+Public Transport Stations,Sig,55.6654375,8.5769413
+Public Transport Stations,Tim,56.19533,8.3057895
+Public Transport Stations,Tureby,55.3734096,12.0760275
+Public Transport Stations,Ulstrup,56.3954985,9.7930525
+Public Transport Stations,Varde Nord,55.6311845,8.5001359
+Public Transport Stations,Vemb,56.3438706,8.3454452
+Public Transport Stations,Bryggebroen,55.661928,12.568893
+Public Transport Stations,Refshaleøen,55.6909228,12.6071292
+Public Transport Stations,Vestamager,55.619371,12.5755841
+Public Transport Stations,Napstjert,57.5545542,10.4083168
+Public Transport Stations,Svendborg-Hjortø,55.0577696,10.6146214
+Public Transport Stations,Ordrup,55.7628994,12.5835616
+Public Transport Stations,Kokkedal,55.9032608,12.5024245
+Public Transport Stations,Dyssekilde,55.9854238,11.9427382
+Public Transport Stations,Godhavn,56.0599174,12.0972072
+Public Transport Stations,Frederikshavnsvej,57.7246845,10.5634573
+Public Transport Stations,Jerup,57.5320982,10.4171808
+Public Transport Stations,Strandby,57.4899627,10.49005
+Public Transport Stations,Rimmen,57.5047875,10.4453825
+Public Transport Stations,Ålbæk,57.5924007,10.4082686
+Public Transport Stations,Bunken,57.6301229,10.4394377
+Public Transport Stations,Hulsig,57.6596943,10.4633661
+Public Transport Stations,Hornslet,56.3205403,10.3136376
+Public Transport Stations,Herning,56.1325451,8.9782986
+Public Transport Stations,Lem,56.0250863,8.3859305
+Public Transport Stations,Ringkøbing,56.0928359,8.2505079
+Public Transport Stations,Sindal,57.4700429,10.2021794
+Public Transport Stations,Tornby,57.5329636,9.9496021
+Public Transport Stations,Vidstrup,57.5018957,9.947579
+Public Transport Stations,Holbæk,55.7155286,11.7080223
+Public Transport Stations,Bagsværdvej,55.7665781,12.459389
+Public Transport Stations,MS Thor,55.2125722,14.9709917
+Public Transport Stations,Guldager,55.5359562,8.4404779
+Public Transport Stations,Borup,55.4946244,11.9720903
+Public Transport Stations,Hundested,55.9636015,11.8527389
+Public Transport Stations,Gilleleje,56.123614,12.3022774
+Public Transport Stations,Ringsted,55.4380663,11.7860978
+Public Transport Stations,Slagelse,55.4075014,11.3485562
+Public Transport Stations,Odder - Busterminal,55.9714832,10.1501619
+Public Transport Stations,Grenaa,56.412739,10.8804542
+Public Transport Stations,Havdrup,55.5436649,12.1171736
+Public Transport Stations,Roskilde Festivalplads,55.6221133,12.0700543
+Public Transport Stations,Ramme,56.4889128,8.2105268
+Public Transport Stations,Boulevarden,55.6238156,8.460158
+Public Transport Stations,Hyllerslev,55.6263151,8.4007068
+Public Transport Stations,Baunhøj,55.6358524,8.2830027
+Public Transport Stations,Løftgård,55.7294724,8.3530239
+Public Transport Stations,Fåre,56.4539623,8.2617436
+Public Transport Stations,Varde,55.6159258,8.484433
+Public Transport Stations,Bogense Rutebilstation,55.5649183,10.0861706
+Public Transport Stations,Femøren,55.6451882,12.638338
+Public Transport Stations,Amager Strand,55.6561353,12.6318585
+Public Transport Stations,Kastrup,55.6357222,12.6469508
+Public Transport Stations,Bella Center,55.6380729,12.582926
+Public Transport Stations,Øresund,55.6614401,12.6287182
+Public Transport Stations,DR Byen,55.6557682,12.5890175
+Public Transport Stations,Sundby,55.6452516,12.5857172
+Public Transport Stations,Islands Brygge,55.6634112,12.5852113
+Public Transport Stations,Lystrup,56.2310704,10.2351986
+Public Transport Stations,Løgten,56.2757352,10.3172907
+Public Transport Stations,Mørke,56.339328,10.3760183
+Public Transport Stations,Ryomgård,56.3800312,10.5005559
+Public Transport Stations,Skødstrup,56.2618625,10.3031417
+Public Transport Stations,Trustrup,56.3507254,10.7715962
+Public Transport Stations,Albertslund Station,55.6588355,12.352168
+Public Transport Stations,Svendborg Busterminal,55.0610028,10.6127172
+Public Transport Stations,Klampenborg,55.7767944,12.5880869
+Public Transport Stations,Samsø - Hou,55.9124582,10.2591054
+Public Transport Stations,Flintholm St.,55.6859951,12.4986859
+Public Transport Stations,Farsø busterminal,56.77199,9.3387325
+Public Transport Stations,Dronningmølle,56.0976319,12.3875631
+Public Transport Stations,Stæremosen,56.1122073,12.3188462
+Public Transport Stations,Thisted,56.9525771,8.6877504
+Public Transport Stations,Aarup,55.3830399,10.0519183
+Public Transport Stations,Gelsted,55.3959843,9.9747029
+Public Transport Stations,Aalborg,57.0429609,9.9167688
+Public Transport Stations,Aalborg Vestby,57.0530125,9.9084872
+Public Transport Stations,Balleby,56.5475879,8.2422507
+Public Transport Stations,Nørgaardsvej,55.7706277,12.513124
+Public Transport Stations,Vejle,55.7066917,9.5365649
+Public Transport Stations,Svendborg,55.0597191,10.6123386
+Public Transport Stations,Stenstrup,55.1313483,10.5092258
+Public Transport Stations,Københavns Lufthavn Kastrup,55.6295551,12.649417
+Public Transport Stations,Københavns Hovedbanegård,55.6724527,12.5653736
+Public Transport Stations,Svendborg Vest,55.055714,10.5817994
+Public Transport Stations,Stenstrup Syd,55.1205002,10.5151776
+Public Transport Stations,Kværndrup,55.1776998,10.5195274
+Public Transport Stations,Rudme,55.1980829,10.4875601
+Public Transport Stations,Tjæreborg,55.466562,8.5793295
+Public Transport Stations,Gørding,55.4696171,8.8015744
+Public Transport Stations,Harboøre,56.6205864,8.1788771
+Public Transport Stations,Thyborøn,56.7041225,8.2147161
+Public Transport Stations,Skalbjerg,55.3660288,10.1414635
+Public Transport Stations,Rødekro,55.0696351,9.3328242
+Public Transport Stations,Hadsten,56.3271718,10.0478216
+Public Transport Stations,Maribo,54.7768029,11.502257
+Public Transport Stations,Anholt Grenå,56.7159128,11.5108817
+Public Transport Stations,DFDS ferry terminal Copenhagen,55.7011424,12.5953987
+Public Transport Stations,Nykøbing F,54.7668891,11.877834
+Public Transport Stations,Roskilde,55.6385464,12.0877782
+Public Transport Stations,Carlsberg,55.6634508,12.5361547
+Public Transport Stations,Lindholm,57.0670441,9.9047405
+Public Transport Stations,Skanderborg,56.0435631,9.9246973
+Public Transport Stations,Haslev,55.329475,11.9607806
+Public Transport Stations,Gadstrup,55.5728238,12.0996554
+Public Transport Stations,Alken,56.0525889,9.8456377
+Public Transport Stations,Skagen,57.7241667,10.591679
+Public Transport Stations,Svendborg-Skarø-Drejø,55.0592474,10.6149042
+Public Transport Stations,Kolle Kolle,55.784795,12.4090266
+Public Transport Stations,Thorsager,56.3560631,10.447939
+Public Transport Stations,Svendborg-Ærøskøbing,55.057768,10.6147914
+Public Transport Stations,Nordby,55.450177,8.4084492
+Public Transport Stations,Østerport,55.693346,12.5883611
+Public Transport Stations,Nørreport,55.6834327,12.5717693
+Public Transport Stations,Horsens,55.8626973,9.8356522
+Public Transport Stations,Korsør,55.3571552,11.1347227
+Public Transport Stations,Langeskov,55.3617508,10.5866134
+Public Transport Stations,Holsted,55.4847669,8.9144535
+Public Transport Stations,Esbjerg,55.467837,8.4582375
+Public Transport Stations,Brejning,55.6665112,9.6591388
+Public Transport Stations,Odense,55.4018379,10.3861989
+Public Transport Stations,Gredstedbro,55.3974404,8.7410961
+Public Transport Stations,Nørre Aaby,55.4602039,9.8705631
+Public Transport Stations,Kavslunde,55.4758609,9.8108381
+Public Transport Stations,Middelfart,55.5016258,9.7344457
+Public Transport Stations,Tinglev,54.9361334,9.2581486
+Public Transport Stations,Sønderborg,54.9124564,9.7787325
+Public Transport Stations,Aarhus - Nørreport,56.161592,10.2115702
+Public Transport Stations,Høvelte,55.8509769,12.3883601
+Public Transport Stations,Vojens,55.2484701,9.3049359
+Public Transport Stations,Hjørring,57.4563721,9.9856433
+Public Transport Stations,Kvissel,57.4719856,10.4124306
+Public Transport Stations,Universitetshospitalet,56.1924949,10.1764096
+Public Transport Stations,Lisbjerg Bygade,56.2167379,10.1646398
+Public Transport Stations,Klokhøjen,56.2123605,10.1637677
+Public Transport Stations,Aarhus H,56.1497091,10.2039136
+Public Transport Stations,Viby J,56.121904,10.1598843
+Public Transport Stations,Odder,55.9718333,10.1505062
+Public Transport Stations,Rude Havvej,55.9834059,10.1541815
+Public Transport Stations,Assedrup,56.0040003,10.1825962
+Public Transport Stations,Malling,56.0376645,10.1912382
+Public Transport Stations,Beder,56.0569162,10.1982106
+Public Transport Stations,Vilhelmsborg,56.0640386,10.1789691
+Public Transport Stations,Mårslet,56.0687756,10.1642908
+Public Transport Stations,Mølleparken,56.0725737,10.1543874
+Public Transport Stations,Nørrevænget,56.0921794,10.1512014
+Public Transport Stations,Tranbjerg,56.096577,10.1358246
+Public Transport Stations,G. Clausens Vej,56.1114793,10.1257973
+Public Transport Stations,Øllegårdsvej,56.1146056,10.1338255
+Public Transport Stations,Rosenhøj,56.1169706,10.1471843
+Public Transport Stations,Kongsvang,56.1353763,10.1742357
+Public Transport Stations,Østbanetorvet,56.1628981,10.2163979
+Public Transport Stations,Hedehusgård,55.6476569,12.1875004
+Public Transport Stations,Sølund,55.6410669,12.1864632
+Public Transport Stations,Brandhøj,55.6363403,12.1828629
+Public Transport Stations,Rubjerg,55.6245993,12.1698314
+Public Transport Stations,Fem Ege,55.6149089,12.1598153
+Public Transport Stations,Torsøvej,56.2054805,10.2284891
+Public Transport Stations,Vestre Strandallé,56.1949777,10.2368262
+Public Transport Stations,Vanløse,55.6871452,12.4925009
+Public Transport Stations,Nejrup,56.5655651,8.1877347
+Public Transport Stations,Valby,55.6637755,12.5135924
+Public Transport Stations,Husum,55.710287,12.4631515
+Public Transport Stations,Ballerup,55.7297174,12.3582875
+Public Transport Stations,Stenløse,55.7668501,12.1900778
+Public Transport Stations,Furesøbad,55.8033845,12.387554
+Public Transport Stations,Dokk1,56.1541463,10.2129758
+Public Transport Stations,Skolebakken,56.1571461,10.2131208
+Public Transport Stations,Hedensted,55.7683994,9.6989045
+Public Transport Stations,Høje Taastrup,55.6489673,12.268557
+Public Transport Stations,Skaaningbro,56.0263996,9.4934251
+Public Transport Stations,Ølby,55.4798401,12.17566
+Public Transport Stations,Køge Nord,55.4995703,12.1726037
+Public Transport Stations,Hvalsø,55.5953424,11.8592384
+Public Transport Stations,Teglværket,55.8582756,12.3771815
+Public Transport Stations,Kvistgård,55.9905165,12.5027958
+Public Transport Stations,Allerød,55.8710875,12.3569533
+Public Transport Stations,Storkevad,55.8614974,12.379674
+Public Transport Stations,Lergravsparken,55.662236,12.6170475
+Public Transport Stations,Amagerbro,55.6633965,12.6028945
+Public Transport Stations,Christianshavn,55.6720958,12.5913771
+Public Transport Stations,Kongens Nytorv,55.6796344,12.5850827
+Public Transport Stations,Forum,55.6818073,12.5525408
+Public Transport Stations,Frederiksberg,55.6811699,12.5322237
+Public Transport Stations,Fasanvej,55.6815945,12.5235687
+Public Transport Stations,Grenaa - Trafikterminal,56.4130285,10.8809691
+Public Transport Stations,Lyngby,55.7680595,12.5031145
+Public Transport Stations,Nærum,55.8138743,12.5281913
+Public Transport Stations,Nykøbing F. Station,54.7668512,11.8771876
+Public Transport Stations,Vejle Sygehus,55.7148547,9.5370354
+Public Transport Stations,Mozarts Plads,55.6489712,12.5343368
+Public Transport Stations,Sluseholmen,55.6458406,12.5444254
+Public Transport Stations,Enghave Brygge,55.6540722,12.5565102
+Public Transport Stations,Havneholmen,55.6609865,12.5593142
+Public Transport Stations,Stoholm,56.4874367,9.150212
+Public Transport Stations,Spangsbjerg,55.4922758,8.4607842
+Public Transport Stations,Holstebro,56.3653479,8.620417
+Public Transport Stations,Humlebæk,55.9637554,12.5330122
+Public Transport Stations,Hårlev,55.3517563,12.227362
+Public Transport Stations,Frederikshavn,57.4413647,10.5403841
+Public Transport Stations,Børkop,55.6421472,9.6521142
+Public Transport Stations,Brørup,55.4826503,9.0155858
+Public Transport Stations,Bandholm,54.835787,11.4819246
+Public Transport Stations,Espergærde,55.9954523,12.5495709
+Public Transport Stations,Orientkaj,55.7118379,12.5951777
+Public Transport Stations,Kalundborg Øst,55.6760433,11.1241213
+Public Transport Stations,Gedser,54.5760991,11.9256619
+Public Transport Stations,Thyregod,55.908415,9.2520359
+Public Transport Stations,Laven,56.1247189,9.7175105
+Public Transport Stations,Oksbøl,55.6260402,8.2836773
+Public Transport Stations,Karise Station,55.3069109,12.1958384
+Public Transport Stations,Rådhuspladsen,55.6764406,12.5682006
+Public Transport Stations,Gammel Strand,55.6775945,12.5789275
+Public Transport Stations,Enghave Plads,55.667227,12.5467948
+Public Transport Stations,Frederiksberg Allé,55.6735083,12.5406118
+Public Transport Stations,Nørrebros Runddel,55.693528,12.5489348
+Public Transport Stations,Aksel Møllers Have,55.6860507,12.5329471
+Public Transport Stations,Nuuks Plads,55.6884779,12.5425294
+Public Transport Stations,Skjolds Plads,55.7034992,12.5487689
+Public Transport Stations,Vibenhus Runddel,55.7063956,12.5647764
+Public Transport Stations,Marmorkirken,55.6851258,12.5890307
+Public Transport Stations,Trianglen,55.6992513,12.575555
+Public Transport Stations,Poul Henningsens Plads,55.7094751,12.5761362
+Public Transport Stations,Tønder,54.9332725,8.8604254
+Public Transport Stations,Løkken Busterminal,57.3685769,9.7120856
+Public Transport Stations,Langå,56.3863117,9.8962704
+Public Transport Stations,Aalborg Lufthavn,57.0847799,9.8750846
+Public Transport Stations,Sprogøvej,56.6922377,8.2097572
+Public Transport Stations,Borris,55.9585289,8.6446805
+Public Transport Stations,Nørre Nebel,55.7772816,8.2905921
+Public Transport Stations,Rødkærsbro,56.3529703,9.4992634
+Public Transport Stations,Ry,56.0912658,9.7586878
+Public Transport Stations,Risskov Strandpark,56.1843725,10.2370451
+Public Transport Stations,Hørdum,56.850473,8.4903197
+Public Transport Stations,Janderup,55.6227123,8.37387
+Public Transport Stations,Skive St.,56.5612927,9.0259835
+Public Transport Stations,Uglev,56.6125662,8.5417601
+Public Transport Stations,Sjørring,56.9519074,8.5880336
+Public Transport Stations,Jegum,55.6646796,8.3017152
+Public Transport Stations,Ydby,56.7139636,8.3985362
+Public Transport Stations,Vrøgum,55.6538649,8.2922517
+Public Transport Stations,Døllefjelde Musse,54.7253948,11.676924
+Public Transport Stations,Ribe Nørremark,55.3396566,8.775968
+Public Transport Stations,Amstrup,56.3908147,8.3296366
+Public Transport Stations,Gjesing,55.5096696,8.4573095
+Public Transport Stations,Bedsted Thy,56.8067003,8.4077389
+Public Transport Stations,Højslev,56.5494043,9.1104515
+Public Transport Stations,Jelling,55.7541136,9.4201541
+Public Transport Stations,Brøns,55.1946892,8.740772
+Public Transport Stations,Silkeborg Trafikterminal,56.1642257,9.5446703
+Public Transport Stations,Silkeborg,56.1639546,9.5442637
+Public Transport Stations,Lyngs,56.6643667,8.4512148
+Public Transport Stations,Engesvang,56.1678883,9.3517705
+Public Transport Stations,Oddesund Nord,56.5825864,8.5470037
+Public Transport Stations,Vinderup,56.4829526,8.7832488
+Public Transport Stations,Svejbæk,56.1327912,9.636434
+Public Transport Stations,Frisvadvej,55.6277378,8.486567
+Public Transport Stations,Ølgod,55.8109645,8.6228043
+Public Transport Stations,Give,55.8429533,9.2360572
+Public Transport Stations,Tønder Nord,54.9388984,8.8610647
+Public Transport Stations,Døstrup Sønderjylland,55.1175295,8.8077454
+Public Transport Stations,Hvidbjerg,56.6498828,8.5266647
+Public Transport Stations,Bramming,55.4647252,8.706779
+Public Transport Stations,Studsgård,56.0917529,8.9105827
+Public Transport Stations,Hurup Thy,56.7511648,8.4178998
+Public Transport Stations,Sejstrup,55.4352849,8.7335019
+Public Transport Stations,Dyreby,55.699936,8.2982478
+Public Transport Stations,Armose,56.5293278,8.2657179
+Public Transport Stations,Lunde,55.7561395,8.3640953
+Public Transport Stations,Brande,55.9444353,9.1304693
+Public Transport Stations,Sinkbæk,56.4377134,8.2840846
+Public Transport Stations,Hviding,55.2745441,8.730184
+Public Transport Stations,Visby,55.0092975,8.8019351
+Public Transport Stations,Ikast,56.1448411,9.1552631
+Public Transport Stations,Rejsby,55.2305427,8.7320676
+Public Transport Stations,Humlum,56.539895,8.552196
+Public Transport Stations,Horsens - Trafikterminal,55.8636371,9.8362344
+Public Transport Stations,Billum,55.6168951,8.331348
+Public Transport Stations,Lemvig Havn,56.5500659,8.305424
+Public Transport Stations,Bilka,55.376983,10.4339763
+Public Transport Stations,Cortex Park,55.3749819,10.4285006
+Public Transport Stations,Campus Odense,55.3708127,10.427609
+Public Transport Stations,SDU,55.3668656,10.4281368
+Public Transport Stations,SDU Syd/Hospital Nord,55.3635541,10.4276091
+Public Transport Stations,Hospital Syd,55.3595936,10.4270121
+Public Transport Stations,Parkering Odense Syd,55.3569126,10.4210958
+Public Transport Stations,Hestehaven,55.3568436,10.4037357
+Public Transport Stations,Hjallese St.,55.3579714,10.3933562
+Public Transport Stations,Palnatokesvej,55.3942892,10.4037738
+Public Transport Stations,Østerbæksvej,55.3934091,10.415953
+Public Transport Stations,Korsløkke,55.3930644,10.4206757
+Public Transport Stations,Ejerslykke,55.3891507,10.4248196
+Public Transport Stations,Rosengårdcentret,55.3848473,10.4285927
+Public Transport Stations,IKEA,55.381314,10.4319208
+Public Transport Stations,Vestre Stationsvej,55.3963193,10.3721881
+Public Transport Stations,Kongensgade,55.3986601,10.3785396
+Public Transport Stations,Odense Banegård,55.4009441,10.3869544
+Public Transport Stations,Odeon,55.3997993,10.3899899
+Public Transport Stations,Albani Torv,55.3966026,10.3904526
+Public Transport Stations,Benedikts Plads,55.3929494,10.3973995
+Public Transport Stations,Østeraadalen,57.0163949,9.9142673
+Public Transport Stations,Limfjorden,57.0505124,10.0449117
+Public Transport Stations,Vinge,55.8102883,12.1158016
+Public Transport Stations,Jerne,55.4744618,8.4864728
+Public Transport Stations,Hjørring Øst,57.4548723,10.0055586
+Public Transport Stations,Lolland,54.6806916,11.4311387
+Public Transport Stations,Roskilde St. (Stationscentret),55.6379094,12.0840409
+Public Transport Stations,Skjern Rtb,55.9454888,8.4944459
+Public Transport Stations,MS Friheden,55.1774904,11.6491516
+Public Transport Stations,Blokhus Busterminal (Møllevej),57.2507929,9.5896854
+Public Transport Stations,Skælskør Busterminal,55.2505484,11.292033
+Public Transport Stations,Troldebakkerne,56.0322656,12.1903653
+Public Transport Stations,Oceankaj,55.7116699,12.5960834
+Public Transport Stations,Gudhjem Havn,55.2123533,14.9714444
+Public Transport Stations,Fredericia Banegård,55.5681784,9.7403902
+Public Transport Stations,Prøvestencentret,56.0199275,12.5726509
+Public Transport Stations,Christiansfeld Rutebilstation,55.3573976,9.483422
+Public Transport Stations,Universitetsparken,56.167058,10.2076605
+Public Transport Stations,Vejen,55.4758216,9.1357514
+Public Transport Stations,Sundbusserne,56.0340651,12.6155822
+Public Transport Stations,Aalborg Busterminal,57.041640458333326,9.918415141666664
+Public Transport Stations,Kolding Rutebilstation,55.4921493,9.48260956
+Public Transport Stations,Color Line Terminal,57.592953814285714,9.968381838095238
+Public Transport Stations,Varde Station,55.61671643846154,8.484983638461538
+Public Transport Stations,Stena Line Frederikshavn,57.4346029125,10.5438939875
+Public Transport Stations,Holbæk St.,55.71617480555556,11.707651294444444
+Public Transport Stations,Fredericia Banegård (Bybusser),55.56768138333333,9.740723311111111
+Public Transport Stations,Fjerritslev Busterminal,57.08649641666666,9.267075333333333
+Public Transport Stations,Middelfart Busstation,55.50213403333333,9.734591166666666
+Public Transport Stations,Esbjerg Rutebilstation,55.4694622,8.458788171428571
+Public Transport Stations,Slangerup Busstation,55.84413592,12.17480442
+Public Transport Stations,Aarhus Rutebilstation,56.15182910769232,10.208490988461538
+Public Transport Stations,Brovst Busterminal,57.0964025,9.52135076
+Public Transport Stations,Nordborg Busstation,55.0568452,9.7427414
+Public Transport Stations,Vejle Trafikcenter,55.705771086666665,9.536028773333332
+Public Transport Stations,Rønne,55.09937355897436,14.690668912820511
+Public Transport Stations,Kokkedal Station,55.902647625,12.502245825
+Public Transport Stations,Kerteminde Rutebilstation,55.450522,10.659984272727272
+Public Transport Stations,Nøragersmindevej,55.5914446,12.58163447
+Public Transport Stations,AAU Busterminal,57.01601872432432,9.991148529729728
+Public Transport Stations,Vejen Rutebilstation,55.4763455,9.134965675
+Public Transport Stations,Guderup Busstation,54.9905914,9.86548484
+Public Transport Stations,Frederikshavn St.,57.44108914210526,10.54082527368421
+Public Transport Stations,Aabenraa Busstation,55.04507315714286,9.422267457142857
+Public Transport Stations,Nyborg Station,55.3130077,10.803190116666666
+Public Transport Stations,Esbjerg Busterminal,55.46984588888889,8.45898245
+Public Transport Stations,FanøFærgen,55.46151704347825,8.440902539130434
+Public Transport Stations,"Ebeltoft, Busterminal",56.17997788,10.67689106
+Public Transport Stations,Hadsund Busterminal,56.71738608333333,10.11864235
+Public Transport Stations,Rønne Havn,55.099843675,14.690046875
+Beaches,Fyns Nordligste Punkt,55.6227199,10.3007019
+Beaches,Djursnæs,55.9450952,11.8545308
+Beaches,Holmens Camping,56.0767228,9.760835
+Beaches,Rosenholm Bådelaug,56.2925721,10.395293
+Beaches,Bøgehoved,55.7349882,10.0373535
+Beaches,Kyholm,55.9317808173913,10.67083601304348
+Beaches,Lindholm,55.92749261388889,10.695151652777776
+Beaches,Hjelm,56.133286917647055,10.800595076470588
+Beaches,Hunseby Strand,54.8281902,11.543700036363637
+Beaches,Nybølle Strand,54.95747965,11.24469865
+Beaches,Sydstranden,55.447818417647056,10.667467661764704
+Beaches,Bellevue Strand,55.77757486666666,12.59252446296296
+Beaches,Dragør Sydstrand,55.58308898536585,12.665646804878048
+Beaches,Hellerup Strand,55.73305801904762,12.58224718095238
+Beaches,Vallensbæk Strand - Brøndby Strand,55.61267975,12.420355967647058
+Beaches,Hundige Strand - Ishøj Strand,55.602521875,12.38450735
+Beaches,Ølsemagle Revle,55.4961147590909,12.209770027272729
+Beaches,Furesøbad,55.80350953125,12.385892625
+Beaches,Henne Strand,55.733653871428565,8.169525267857143
+Beaches,Klinten strand,55.08750896896552,10.25553108275862
+Beaches,Karlas Plads,55.0494811,10.616578466666668
+Beaches,Christiansminde Badestrand,55.05813975307692,10.639684674615385
+Beaches,Holtbjerg Sø Badestrand,56.12737108,9.001066574285714
+Beaches,Tirsbæk Strand,55.70895905833333,9.632050816666666
+Beaches,Knudhule,56.1020632875,9.78403650625
+Beaches,Vedbæk Nordstrand,55.85142486551724,12.56962094137931
+Beaches,Moesgård Strand,56.08754639032258,10.248682451612904
+Beaches,Østre Søbad,56.14772956666666,9.55622645
+Beaches,Tranum Strand,57.17001518888889,9.41802983888889
+Beaches,Ejstrup Strand,57.177804475,9.435386958333332
+Beaches,Nørhede Strand,56.32108359090909,8.2046166
+Beaches,Lehnskov Strand,55.02688931557377,10.515478429508196
+Beaches,Rebæk Strand,55.48708281052632,9.52654645263158
+Beaches,Vestre Søbad,56.15206572173913,9.543707273913045
+Beaches,Aggerholm,56.15330312608696,9.53641858695652
+Beaches,Albuen Strand,55.704732792857136,9.580672821428571
+Beaches,Næs Badestrand,55.27280338148148,14.806788318518516
+Beaches,Nymølle Strand,56.67809138333333,8.78942375
+Beaches,Vadum Strand,56.64084169565217,8.758167626086957
+Beaches,Peder Mads Strand,55.95027883,12.53198512
+Beaches,Linderum,55.28861434848485,9.715068051515152
+Beaches,Bastholm,55.2841114047619,9.76915016190476
+Beaches,Hvidbjerg strand,55.63992935487805,9.744748360975608
+Beaches,Espergærde Strand,55.99150035384615,12.56113963846154
+Beaches,Mørkholt strand,55.649790854,9.742234642
+Beaches,Den Sorte Strand,54.89736551463415,9.799397968292682
+Beaches,Den gule strand,54.9046603875,9.7859052
+Beaches,Dragør Strand,55.58786658823529,12.675339158823528
+Beaches,Gråstensvej Strand,55.98487966511628,11.883688788372092
+Beaches,Trekanten,55.96757075384616,11.846984823076925
+Beaches,Dybbøl Strand,54.90449005384615,9.779599676923077
+Beaches,Hullehavn Strand,55.13108257058824,15.152490223529412
+Beaches,Rungsted Strand,55.88259048571429,12.546220285714284
+Beaches,Vemmetofte Strand,55.237237425,12.24292380625
+Beaches,Rødvig Sand Strand,55.25343839166666,12.368345375
+Beaches,Bøgeskov Strand,55.36960071052632,12.41222334736842
+Beaches,Stranden ved Lokeshøj,55.83899178695652,12.574405473913044
+Beaches,Babylone Strand,55.97558884901961,12.547310825490197
+Beaches,Bjerre Strand,55.957401366666666,12.537112455555556
+Beaches,Stranden ved Ida Tesdorpfs Vej,55.9608606,12.540135371428573
+Beaches,Julebæk Strand,56.05977443023256,12.574593920930232
+Beaches,Stranden ved Hornbæk Plantage,56.09165261538462,12.488525147435896
+Beaches,Dronningmølle Strand,56.100323670370365,12.393026448148149
+Beaches,Gilleleje Strand,56.1284232,12.305846895
+Beaches,Stængehus - Melby Strand,56.025396472,11.994777864
+Beaches,Tisvildeleje Strand,56.05434442441861,12.054174097674418
+Beaches,Ejby Strand,55.69596699285714,11.837243171428572
+Beaches,Borrevejle Strandpark,55.65429179285714,11.93853514285714
+Beaches,Kisserup Strand,55.79310445769231,11.72446913076923
+Beaches,Gudmindrup Strand,55.896509096385536,11.52567960120482
+Beaches,Helnæs Strand,55.13307524363636,10.041701769090908
+Beaches,Skolestranden,55.98853375625,12.5578342875
+Beaches,Hesnæs_Strand,54.81401076666666,12.129048704761905
+Beaches,Flyvesandet,55.621126317910445,10.29746052089552
+Beaches,Trylleskoven strand,55.55049328,12.248949806666666
+Beaches,Hullehavn,55.131004835,15.153313075
+Beaches,Lyngså Strand,57.25367057744361,10.54623119699248
+Beaches,Hallingelille Strand,55.49482455833333,11.818353791666668
+Beaches,Halk Strand,55.18381110571429,9.657159957142856
+Beaches,Skelby,54.63289449310345,11.888033886206896
+Beaches,Badeanstalten,54.943168475,9.848378225
+Beaches,Ibæk Strand,55.69264994285714,9.610562357142856
+Beaches,Vængesgård Strand,54.964198565957446,12.357108863829788
+Beaches,Hårbølle Strand,54.880342209375,12.173091498046876
+Beaches,Sjælsø strand ved Eskemose skov,55.85993594761905,12.443029771428572
+Beaches,Christiania Beach,55.67945386,12.60936856
+Beaches,Kelstrup Strand,55.191283474358976,9.58351308205128
+Beaches,Sdr. Alslev Strand,54.75550606923077,12.039566465384617
+Beaches,Ulslev strand,54.73584913269231,12.02703505
+Beaches,Klintholm Havn Strand,54.95107015576923,12.476125492307691
+Beaches,Havnevigen,55.654501965,12.566054915
+Beaches,Glumsø Badestrand,55.35230744285714,11.688309385714284
+Beaches,Stengade Strand,54.95859615625,10.8503882
+Beaches,Dokken City Beach,55.46173231,8.44379541
+Beaches,Østre Strand,56.48343237959184,8.612781714285713
+Beaches,Kramnitze Strand,54.70487331020408,11.254837083673468
+Beaches,nudiststrand,54.67608516153847,11.31013776153846
+Beaches,Hornbæk Hundestrand,56.0929459,12.464906164285717
+Beaches,"Såne ""Bellevue""",55.89493548,11.118239653333331
+Beaches,Hundige Hundestrand,55.592147825,12.3570081125
+Beaches,Sønder Aaby Strand,55.35053855370369,9.842726277777777
+Beaches,Hjerpsted Strand,55.027397073333326,8.63707244
+Beaches,Gribtørven,56.64712652222222,9.839698855555556
+Beaches,Sandskredet,56.64684007142857,9.826124657142856
+Beaches,Sildeborghage,56.64378825384616,9.814454376923075
+Beaches,Teglgårdssøens badestrand,55.9248027,12.31421834
+Beaches,Ajstrup Strand,56.04035610526316,10.270842863157894
+Beaches,Skovsgårdland,56.6395021,9.85097688
+Beaches,Houstrup Strand,55.7601340875,8.1763422125
+Beaches,Adsbøl Strand,54.93515557,9.62694956
+Beaches,Dalleren,56.64599531538462,9.820448953846151
+Beaches,Fyrbøjen,56.6464156125,9.8309391625
+Beaches,Fjellerup badestrand,56.517843683333325,10.58814304
+Beaches,Mullerup Strand,55.49573925,11.17460309
+Beaches,Annekjeld,56.63951911666666,9.8313284
+Beaches,Ulvshale Strand,55.03796336764706,12.285017361764703
+Beaches,Hejlsminde Strand,55.36295431162791,9.602173511627909
+Beaches,Tarup-Davinde Hundestrand,55.3314557625,10.527410325
+Beaches,Sædding Strand,55.49573119577296,8.397722794565217
+Beaches,Sandersvig,55.34952867080048,9.626290754603202
+Beaches,bakkebølle strand,54.97508956071429,11.982207366165412
+Beaches,Grønnestrand,57.143922390441176,9.270964963308824
 Schools,N. Zahles Gymnasieskole,55.68246273105704,12.569473461259376
 Schools,Gilleleje Skole Parkvej,56.11590223703704,12.307585366666666
 Schools,Søndermarksskolen,55.85840443333333,9.835434789583331
 Schools,Rødovre Skole,55.682258325,12.46361295625
-Schools,Brandbjerg Højskole,55.77174279393939,9.472654212121213
+Schools,Brandbjerg Højskole,55.77174279393939,9.472654212121212
 Schools,Bakkeskolen,55.4882019125,9.44679095
 Schools,Dyvekeskolen,55.648004622222224,12.596514972222222
 Schools,Social & Sundhedsskolen,56.142736686206895,8.969262610344828
@@ -27,20 +826,20 @@ Schools,Mariagerfjord Gymnasium,56.63399242307692,9.81363073076923
 Schools,Østerskov Efterskole,56.63117573333333,9.829562923809522
 Schools,Krogerup Højskole,55.97345076,12.534374754285714
 Schools,EUC Nordvest,56.96642279883721,8.701832087209302
-Schools,EUC,56.964902386848074,8.70021825170068
+Schools,EUC,56.96490238684808,8.70021825170068
 Schools,Ulfborg Skole,56.274973008955214,8.320702691044776
 Schools,Digeskolen,54.96637883846154,8.68907813076923
-Schools,Struer Statsgymnasium,56.490383537142854,8.600889925714284
+Schools,Struer Statsgymnasium,56.49038353714285,8.600889925714284
 Schools,Nordstjerneskolen,56.02565917333333,12.19114342
 Schools,Aarhus Tech,56.1846637047619,10.192145633333332
 Schools,Venø Efterskole,56.55617553793104,8.630181872413793
-Schools,Skanderborg-Odder Handelsskole,56.047278938596484,9.945755594736841
+Schools,Skanderborg-Odder Handelsskole,56.04727893859648,9.94575559473684
 Schools,Trane Skole & Børneby - afd. Tistrup,55.719422264516126,8.610374003225806
 Schools,"Campus Bornholm - HHX, HTX, Danskuddannelserne",55.106517517647056,14.711246529411763
 Schools,Sorø Privatskole,55.435588861818175,11.556468576363637
 Schools,Nydamskolen,54.95152679679487,9.705242058076925
 Schools,Professionshøjskolen Absalon - Campus Roskilde,55.65078556,12.14189684
-Schools,Greve Gymnasium,55.582996295652165,12.289619439130433
+Schools,Greve Gymnasium,55.582996295652165,12.289619439130432
 Schools,Busses Skole,55.74523128,12.52230546
 Schools,International School of Billund,55.72860996058394,9.120520246715328
 Schools,Bøgehøj Kursuscenter,56.181378188888885,10.6770951
@@ -58,22 +857,22 @@ Schools,Ådalskolen,56.549799678125,9.014572453125
 Schools,Præstemarkskolen,56.23375166444445,10.085338212539682
 Schools,Frydenhøjskolen,55.6251727875,12.4638782
 Schools,Brøruphus Efterskole,55.983477233333325,9.917828696666666
-Schools,Skivehus Skole,56.58160669655173,9.037062096551725
-Schools,Frederiksværk Gymnasium,55.973187455303034,12.013621378787878
+Schools,Skivehus Skole,56.58160669655173,9.037062096551724
+Schools,Frederiksværk Gymnasium,55.97318745530304,12.013621378787878
 Schools,Marie Mørks Skole,55.925861031060606,12.30844486939394
 Schools,Sønderborg Statsskole,54.90791198156863,9.793995338431372
 Schools,Aarhus Business College,56.11984301388889,10.158151636111112
 Schools,Guldberg Skole,55.69399210630342,12.553269042799144
-Schools,EUC nordvestsjælland,55.792443953658534,11.461442109756096
+Schools,EUC nordvestsjælland,55.79244395365853,11.461442109756096
 Schools,Gylling Efterskole,55.893048837413794,10.166514610948276
 Schools,Aalborg Efterskole,56.99615287333333,10.329023211944444
 Schools,Skolen ved Søerne,55.67829955878976,12.553514690286692
 Schools,Th. Langs Skole,56.165464034230766,9.546023925
 Schools,Sdr. Bork Efterskole,55.81175649527778,8.296054837222222
 Schools,Læringshus Nærheden,55.64551571304348,12.2042005
-Schools,Grenaa Gymnasium,56.407862896666664,10.887577488333331
+Schools,Grenaa Gymnasium,56.40786289666666,10.887577488333331
 Schools,Tim Helheden,56.19693919561404,8.308272918201753
-Schools,Kastrupgårdsskolen,55.633192316666666,12.627822066666665
+Schools,Kastrupgårdsskolen,55.633192316666666,12.627822066666663
 Schools,Korsvejens Skole,55.63449102222222,12.618512888888889
 Schools,Skottegårdsskolen,55.63742132,12.63756468
 Schools,Roskilde Gymnasium,55.641859838461535,12.079038692307693
@@ -107,12 +906,12 @@ Schools,Krogårdskolen,55.592428385714285,12.321509928571428
 Schools,Vadgård Skole,55.75122728,12.48761028
 Schools,Gladsaxe Gymnasium,55.74218092727273,12.491444672727273
 Schools,Mosedeskolen,55.57828,12.2769879875
-Schools,Måløvhøj Skole,55.751282507142854,12.320573057142855
+Schools,Måløvhøj Skole,55.75128250714285,12.320573057142855
 Schools,Technical Education Copenhagen,55.7324879,12.342452914285714
-Schools,Stengård Skole,55.757020866666664,12.474087977777776
+Schools,Stengård Skole,55.75702086666666,12.474087977777776
 Schools,Lagoniskolen 7.-9. klasse,55.24742769333333,9.311712693333332
 Schools,Frederiksborg Gymnasium,55.92523438,12.31392033
-Schools,Frederiksborg Byskole,55.928346291666664,12.315259341666666
+Schools,Frederiksborg Byskole,55.92834629166666,12.315259341666666
 Schools,Kvikmarkens Privatskole,55.747259625,12.4887923375
 Schools,Nørregård,55.66400883333333,12.428717783333331
 Schools,Albertslund lille skole,55.68814751666667,12.3714976
@@ -125,13 +924,13 @@ Schools,Nyager Skole,55.68862266666667,12.447540077777775
 Schools,Sønderkærskolen,55.64903054,12.47626736
 Schools,Hvidovre Gymnasium & HF,55.62867338333333,12.452723666666666
 Schools,Egholmskolen,55.621411975,12.3888038875
-Schools,Hillerød Vest Skolen Afdeling Ålholm,55.93943942142857,12.265229264285715
+Schools,Hillerød Vest Skolen Afdeling Ålholm,55.93943942142857,12.265229264285717
 Schools,Trekroner Skole,55.6519419,12.12294514
 Schools,Kristofferskolen,55.65392153,12.12524187
 Schools,Lagoniskolen,55.24590350833333,9.287655275
 Schools,Gildbroskolen,55.61864458,12.3621461
 Schools,Dragør Skole Nord,55.59881313333333,12.659774366666666
-Schools,Store Magleby Skole,55.595200872727276,12.637672127272728
+Schools,Store Magleby Skole,55.59520087272728,12.637672127272728
 Schools,Dragør Skole Syd,55.59344683636364,12.669492563636364
 Schools,Løjtegårdsskolen,55.62373585882353,12.619569905882353
 Schools,Nordregårdsskolen,55.6376384,12.60099632
@@ -143,9 +942,9 @@ Schools,Margretheskolen,55.735838233333325,12.129531944444444
 Schools,Brøndbyøster Skole,55.66139418,12.44754758
 Schools,Møllevangskolen,56.16478485833333,10.185079025
 Schools,Grundtvigs Højskole,55.9407247375,12.26910705
-Schools,Ahlmannsskolen,54.90902728823529,9.795492454411763
+Schools,Ahlmannsskolen,54.90902728823529,9.795492454411765
 Schools,"Kratbjergskolen, Ravnsholt",55.85521798947368,12.343895068421052
-Schools,Tingløkkeskolen,55.36809173529412,10.364642317647059
+Schools,Tingløkkeskolen,55.36809173529412,10.36464231764706
 Schools,Vibeholmskolen,55.61518998,12.33482406
 Schools,Ganløse Skole,55.78949269444445,12.262009933333331
 Schools,Gasværksvejens Skole,55.66993057391304,12.55707052173913
@@ -153,25 +952,25 @@ Schools,Heerup Skole,55.69242596363636,12.509173109090908
 Schools,Rødkilde Skole,55.697162866666666,12.5076013
 Schools,Fløng Skole,55.66200265,12.179226425
 Schools,Roskilde Katedralskole,55.6342695,12.057828533333332
-Schools,Himmelev Gymnasium,55.655981366666666,12.111972866666665
+Schools,Himmelev Gymnasium,55.655981366666666,12.111972866666664
 Schools,Høje-Taastrup Gymnasium,55.6495506,12.262508083333332
 Schools,Hedehusene Skole,55.65131847142857,12.207404828571429
 Schools,Arenaskolen,55.594751,12.332016983333332
 Schools,Næsby Skole,55.41734020625,10.35726528125
-Schools,Åløkkeskolen,55.400920916666664,10.366198466666665
+Schools,Åløkkeskolen,55.40092091666666,10.366198466666663
 Schools,Lille Næstved Skole,55.23335815,11.74960486153846
 Schools,Vedbæk Skole,55.85191221666666,12.561012133333332
 Schools,Bakkegårdsskolen,55.74689482941176,12.525695364705882
 Schools,Karinedals Skole,55.69079313571429,12.497407035714284
 Schools,Engelsborgskolen,55.76641021818182,12.49196368181818
 Schools,Katrinebjergskolen,56.17453421,10.19646787
-Schools,Tovshøjskolen,56.166941085714285,10.137282466666665
+Schools,Tovshøjskolen,56.166941085714285,10.137282466666663
 Schools,Lundgårdskolen,56.1518654,8.92927007142857
 Schools,Tre Falke Skolen,55.68005848888889,12.497784544444444
-Schools,Hasle Skole,56.16968843043478,10.163062130434781
+Schools,Hasle Skole,56.16968843043478,10.16306213043478
 Schools,Kragelundskolen,56.11468482222222,10.200484933333332
-Schools,Skåde Skole,56.10427588333333,10.209021866666665
-Schools,Beder Skole,56.06179547368421,10.213368184210527
+Schools,Skåde Skole,56.10427588333333,10.209021866666664
+Schools,Beder Skole,56.06179547368421,10.213368184210529
 Schools,Mårslet Skole,56.068535551515154,10.156763333333332
 Schools,Blaagaards Seminarium,55.723062041666665,12.476918383333333
 Schools,Hellebjerg Idrætsungdomsskole,55.71416971666667,9.989252841666666
@@ -185,7 +984,7 @@ Schools,Kildegårdskolen Afdeling Vest,55.742340775,12.425883975
 Schools,Ravnholm Skole,55.80810670454546,12.511915009090908
 Schools,Virupskolen,56.24342965,10.27179176
 Schools,Falkenborgskolen,55.83936564615385,12.066866446153846
-Schools,Vinderød Privatskole,55.99190999333333,12.033459766666667
+Schools,Vinderød Privatskole,55.99190999333333,12.033459766666669
 Schools,Langkær Gymnasium og HF,56.1858508,10.1137947875
 Schools,Egebakkeskolen,56.17211885,10.120777921428571
 Schools,Skjoldhøjskolen,56.17304921578947,10.114020157894736
@@ -194,22 +993,22 @@ Schools,Hornslet Skole,56.31543044901961,10.31544164117647
 Schools,Park Skolen,55.49516378636364,9.487434663636364
 Schools,Nordsjællands Efterskole,56.0584870375,12.2300404125
 Schools,Morten Børup Skolen,56.03608192619048,9.923413797619048
-Schools,Utterslev Skole,55.711240272727274,12.519486909090908
+Schools,Utterslev Skole,55.71124027272728,12.519486909090908
 Schools,Laursens Realskole,56.16204712727273,10.21007719090909
 Schools,Sjølundsskolen,55.21891132857143,11.765276485714285
 Schools,Sydbyskolen,55.209898885,11.77153737
 Schools,Næstved Gynasium,55.2189191125,11.7681767375
-Schools,Samsøgades Skole,56.16185995,10.202392066666667
+Schools,Samsøgades Skole,56.16185995,10.202392066666668
 Schools,Elise Smiths Skole,56.1606744375,10.20301975
-Schools,Nivå Skole Syd,55.933400732558134,12.50192276511628
+Schools,Nivå Skole Syd,55.93340073255813,12.50192276511628
 Schools,Ørestad Skole,55.63110666923077,12.58146000576923
 Schools,Sundbyøster Skole,55.651665884,12.61411086
 Schools,Amager Lille Skole,55.65143061,12.61717995
 Schools,Lillevang Skole,55.8719222,12.34507802
 Schools,"Kratbjergskolen, Engholm",55.86433391111111,12.338416955555555
 Schools,Skovvangskolen,55.87935208,12.35386082
-Schools,Kongevejsskolen,55.87628661666666,12.376345616666667
-Schools,Reerslev Skole,55.6200066,12.186285742857143
+Schools,Kongevejsskolen,55.87628661666666,12.376345616666669
+Schools,Reerslev Skole,55.6200066,12.186285742857144
 Schools,Vester Skerninge Friskole,55.07405908571429,10.43553555
 Schools,Vestermarkskolen,55.07476103333333,10.4491991
 Schools,Skæring Skole,56.22703929333333,10.298255666666666
@@ -227,65 +1026,65 @@ Schools,Rødkilde Gymnasium,55.71025766428571,9.553872142857143
 Schools,Vejle Tekniske Gymnasium,55.7104775,9.539559404545454
 Schools,Kofoeds Skole,55.66688626470588,12.617730058823527
 Schools,Langmarksskolen,55.870653269230765,9.873283707692307
-Schools,Stensballe Skole,55.873948128571435,9.9184266
-Schools,Hanssted Skole,55.66588843333333,12.486713691666665
+Schools,Stensballe Skole,55.87394812857144,9.9184266
+Schools,Hanssted Skole,55.66588843333333,12.486713691666663
 Schools,Ellehøjskolen,56.16961403571429,10.149753657142856
-Schools,Ålholm Skole,55.67009925714286,12.494983714285715
+Schools,Ålholm Skole,55.67009925714286,12.494983714285716
 Schools,Strandskolen,56.1996962,10.243603084615383
-Schools,Hornbæk Skole,56.461583672222226,9.971733757407408
+Schools,Hornbæk Skole,56.46158367222223,9.971733757407408
 Schools,Risskov Skole,56.19258333,10.229073225
-Schools,Falkonergården Gymnasium og HF-Kursus,55.68130017142857,12.495283092857141
+Schools,Falkonergården Gymnasium og HF-Kursus,55.68130017142857,12.49528309285714
 Schools,Søndermarkskolen,55.67440221,12.50262728
 Schools,NOVAskolen,55.72105612142857,9.555642578571428
 Schools,Gammel Hasseris Skole,57.0347937,9.8727196
-Schools,Silkeborg Højskole,56.178296052830184,9.591405467924528
+Schools,Silkeborg Højskole,56.17829605283018,9.591405467924528
 Schools,Dalumskolen,55.35828981111111,10.380750594444445
 Schools,Kirkebakkeskolen,55.71170703846153,9.6041035
 Schools,Hældagerskolen,55.71909135833333,9.5927167375
 Schools,Herningvej Skole,57.02861594,9.98405768
-Schools,Mellervangskolen,57.040392725925926,9.999072362962963
+Schools,Mellervangskolen,57.040392725925926,9.999072362962965
 Schools,Sct. Norberts Skole,55.70748976666666,9.531575206666666
-Schools,Lykkebo Skole,55.660112614285715,12.484783992857142
+Schools,Lykkebo Skole,55.66011261428572,12.484783992857142
 Schools,Naturskolen i Vestskoven,55.68842054444445,12.3667034
 Schools,Filstedvejen Skole,57.0351669125,9.9589610875
-Schools,Vejgård Østre Skole,57.038731839130435,9.960962882608696
+Schools,Vejgård Østre Skole,57.03873183913044,9.960962882608696
 Schools,UNG Aalborg Uddannelsescenter,57.02571104285714,9.916908028571427
 Schools,Vejle Midtbyskole,55.7035756,9.5248146625
 Schools,Mølholm Skole,55.6907495625,9.5543953375
-Schools,Langelinies Skole,55.70954282727273,9.540107636363635
+Schools,Langelinies Skole,55.70954282727273,9.540107636363636
 Schools,Lukas-Skolen,55.72468788888889,9.5575534
 Schools,Rårup Skole,55.77209788461538,9.9348896
-Schools,Glud Skole,55.806501614285715,10.002118114285715
+Schools,Glud Skole,55.80650161428572,10.002118114285716
 Schools,Møldrup Skole,56.61955703636364,9.500132636363634
 Schools,Holmegårdskolen,57.46347875,9.9950764375
 Schools,Hjørring Gymnasium,57.4594275625,9.9977297
 Schools,Muldbjergskolen,57.457315836842106,10.002764221052631
-Schools,Stenderup Skole,55.7910286,9.804777142857143
+Schools,Stenderup Skole,55.7910286,9.804777142857144
 Schools,Uldum Skole,55.84496867777778,9.584797533333331
 Schools,EUC Nord,57.46023814,10.01431518
 Schools,Tørring Skole,55.86063944,9.486130925
 Schools,Skødstrup Skole,56.27154517948718,10.307953715384617
 Schools,Bagterpskolen,57.43713523333333,9.99871018888889
 Schools,UCN Sygeplejerskeuddannelsen,57.4516762375,10.00352708125
-Schools,Langskov Skole,55.82960375555556,9.531741822222223
+Schools,Langskov Skole,55.82960375555556,9.531741822222225
 Schools,Øster Nykirke Skole,55.8634994875,9.41610635
 Schools,Byplanvejens Skole,57.017441442857134,9.927267142857142
-Schools,Barrit Skole,55.715301928571435,9.879443542857143
+Schools,Barrit Skole,55.71530192857144,9.879443542857144
 Schools,Vrå Realskole,57.3552825625,9.937409825
 Schools,Vrå Højskole,57.3563184875,9.9359027125
-Schools,Melby Skole,55.994291276470584,11.967724417647059
+Schools,Melby Skole,55.99429127647058,11.96772441764706
 Schools,"Frydenstrandskolen, afd. Abildvej",57.44991269375,10.511637078125
 Schools,Privatskolen,57.4353989125,10.511054366666666
 Schools,"Frydenstrandskolen, afd. Buhlsvej",57.4504939,10.529091592857142
-Schools,Nørre Snede Skole,55.962414585714285,9.394677578571427
+Schools,Nørre Snede Skole,55.962414585714285,9.394677578571429
 Schools,Klovborg Friskole,55.93116908,9.49319734
-Schools,Elsted Skole,56.241488266666664,10.228595816666665
+Schools,Elsted Skole,56.24148826666666,10.228595816666664
 Schools,Gødvadskolen,56.19258499166666,9.609559641666666
 Schools,Aale-Hjortsvang Skole,55.88872482857143,9.562800771428574
-Schools,Rask Mølle Skole,55.875129216666664,9.611706666666665
+Schools,Rask Mølle Skole,55.87512921666666,9.611706666666665
 Schools,Naturskolen,55.24885582,11.24869812
 Schools,Damhusengens Skole,55.68615804666666,12.4803005
-Schools,Lindved Skole,55.791564492307685,9.574214523076925
+Schools,Lindved Skole,55.791564492307685,9.574214523076924
 Schools,Vorrevangskolen,56.185473708333326,10.1990922125
 Schools,Jordbrugets UddannelsesCenter Århus,56.0585149890909,10.19981938181818
 Schools,Lørslev Skole,57.42800088888889,10.083840391666666
@@ -303,11 +1102,11 @@ Schools,Stjærskolen,56.119987747058815,9.950089023529411
 Schools,Høng Efterskole,55.511971713953486,11.28717406976744
 Schools,Thorsager Skole,56.3408063875,10.4600445
 Schools,Øster Brønderslev Centralskole,57.24812705652174,10.004942491304348
-Schools,Øster Snede Skole,55.797599166666664,9.652727516666666
-Schools,Kragelund Efterskole,55.80899793076923,9.646766092307693
+Schools,Øster Snede Skole,55.79759916666666,9.652727516666666
+Schools,Kragelund Efterskole,55.80899793076923,9.646766092307692
 Schools,Kolind Skole,56.36051638333333,10.581267683333332
 Schools,Hvidebækskolen,55.6103629875,11.2294953125
-Schools,Rørby Skole,55.643044133333326,11.162610316666665
+Schools,Rørby Skole,55.643044133333326,11.162610316666663
 Schools,Kolding Friskole,55.50969217894737,9.496332131578948
 Schools,BGI akademiet,55.77472398571429,9.867332114285714
 Schools,Sofiendalskolen,57.01720752857143,9.892597009523808
@@ -320,7 +1119,7 @@ Schools,Struer Friskole,56.47515330588235,8.595561294117646
 Schools,Social og Sundhedsskolen,56.55606299230769,9.020785369230769
 Schools,Hornum Skole,56.83920731818181,9.422113290909092
 Schools,Ejerslykkeskolen,55.3864423,10.418328871428573
-Schools,Fårup Skole,56.542446752941174,9.855380605882354
+Schools,Fårup Skole,56.54244675294117,9.855380605882354
 Schools,Naturskolen Tømmerhuset,55.63940016,11.52805998
 Schools,Møn Skole,54.99651012352941,12.391995523529411
 Schools,Vanløse Privatskole,55.68222338,12.48771544
@@ -330,20 +1129,20 @@ Schools,Give Skole - Søndermarks afdelingen,55.83970492,9.232145086666666
 Schools,Skibelund Naturskole,55.43312027142857,9.639891657142856
 Schools,Drenderuphus,55.4105472,9.3679868
 Schools,Steppinge Skole,55.35351867441861,9.356587295348834
-Schools,Lunderskov Efterskole,55.473535021518984,9.29642397848101
-Schools,Troldkærskolen,55.38850776923077,9.238948461538461
+Schools,Lunderskov Efterskole,55.47353502151898,9.29642397848101
+Schools,Troldkærskolen,55.38850776923077,9.23894846153846
 Schools,Center for Høretab,55.56344132369942,9.71316112716763
 Schools,Samsø Musikskole,55.833876978947366,10.586096994736842
 Schools,Samsø Skole,55.83330634545455,10.585402863636364
 Schools,Nr. Aaby Skole,55.45274108571429,9.869995757142856
-Schools,Sebber Skole,56.975709233333326,9.560189266666665
+Schools,Sebber Skole,56.975709233333326,9.560189266666663
 Schools,Store Heddinge Skole,55.31512496875,12.38492316875
 Schools,Stouby Skole,55.70465348,9.79714776
 Schools,Næstved Handelsskole,55.2509925037037,11.784625075925923
 Schools,Kontiki,55.95223889285714,12.3084043
 Schools,Grønnevang Skole Afdeling Østervang,55.9359745,12.3417912875
-Schools,Grønnevang Skole Afdeling Jespervej,55.940352004761905,12.336781657142856
-Schools,Kirstinebjergskolen,55.57999686666666,9.770538244444445
+Schools,Grønnevang Skole Afdeling Jespervej,55.94035200476191,12.336781657142856
+Schools,Kirstinebjergskolen,55.57999686666666,9.770538244444444
 Schools,Kirstinebjergskolen Afd. Havepladsvej,55.57780773846154,9.764308692307694
 Schools,Ejstrupholm Skole,55.98442465714285,9.284937742857142
 Schools,Midtjysk Ungdomsskole,55.98814878,9.28000784
@@ -358,17 +1157,17 @@ Schools,Brobyskolerne Afd. Pontoppidan,55.22964086285714,10.251518637142857
 Schools,Midtbyskolen,55.86345400833333,9.851020766666666
 Schools,Sct. Ibs Skole,55.86347170434783,9.850164295652174
 Schools,Ullerup Bæk Skolen Afd. Skjoldborgsvej,55.566150066666665,9.72973928333333
-Schools,Avedøre Skole,55.63228931333333,12.455894426666665
+Schools,Avedøre Skole,55.63228931333333,12.455894426666664
 Schools,Løkken Centralskole,57.37195312222222,9.719023711111111
-Schools,Kirstinebjergskolen Afd. Høgevej,55.572106766666664,9.74760908888889
+Schools,Kirstinebjergskolen Afd. Høgevej,55.57210676666666,9.74760908888889
 Schools,Relyon Nutec,55.4822315125,8.5354086175
 Schools,Torstorp skole,55.63837462631579,12.273434336842104
-Schools,Charlotteskolen,55.647445614285715,12.2160671
-Schools,Bråskovgård Efterskole,55.75757559444445,9.826733944444445
+Schools,Charlotteskolen,55.64744561428572,12.2160671
+Schools,Bråskovgård Efterskole,55.75757559444445,9.826733944444443
 Schools,Sankt Pauls Skole,55.64811442,12.25580862
 Schools,As Friskole,55.75013106,9.99350314
 Schools,Hørup Centralskole,54.92387493333333,9.901799653968254
-Schools,Skovvejens Skole Afdeling Øst,55.74853973611111,12.379448341666667
+Schools,Skovvejens Skole Afdeling Øst,55.74853973611111,12.379448341666668
 Schools,Alssundgymnasiet Sønderborg,54.89881771935484,9.811433403225806
 Schools,Øster Farimagsgade Skole,55.69259543571429,12.577864385714284
 Schools,Heibergskolen,55.70298123076923,12.581848176923076
@@ -376,7 +1175,7 @@ Schools,"Syddansk Musikkonservatorium, Esbjerg",55.47018897272727,8.450700163636
 Schools,Sindal Skole,57.476220275,10.1959435
 Schools,"Brøndbyvester Skole, Krogagervej",55.649505991666665,12.4015676
 Schools,Den Classenske Legatskole,55.67288032,12.57577244
-Schools,St. Petri Skole,55.679702222222225,12.569464672222223
+Schools,St. Petri Skole,55.67970222222223,12.569464672222225
 Schools,DIA Privatskole,55.6902782,12.56164585
 Schools,Friskolen i Bramming,55.47352290769231,8.699721007692307
 Schools,Tårs Skole,57.38418992,10.11267835
@@ -385,7 +1184,7 @@ Schools,Janderup Skole,55.63002161428571,8.370848104761905
 Schools,Tipperupskolen,55.98755166666666,12.542081195238096
 Schools,Svartingedal Skole,55.184368657142855,14.707849471428572
 Schools,Hjemly Idrætsefterskole,55.206337725,10.352133291666666
-Schools,Bornholms Ungdomskole / Dybdalskolen,55.174984318181814,14.811121445454544
+Schools,Bornholms Ungdomskole / Dybdalskolen,55.17498431818181,14.811121445454544
 Schools,Lycée Français Prins Henrik,55.67406468235294,12.548343535294116
 Schools,Peterskolen,55.1245627090909,14.718511363636363
 Schools,Firehøjeskolen (Nørup afd.),55.7031729,9.309592391666666
@@ -393,9 +1192,9 @@ Schools,Tronsø skolen,55.76959864444445,8.920369233333332
 Schools,Jægerspris Skole,55.84507500769231,11.986734223076924
 Schools,Fjordbakkeskolen Taulov,55.53960364,9.6126506
 Schools,Rosenvangskolen,56.13072963571429,10.183692235714284
-Schools,Vrejlev Hæstrup Skole,57.35643963571429,10.012986988095237
+Schools,Vrejlev Hæstrup Skole,57.35643963571429,10.012986988095236
 Schools,Pedersborg Skole,55.463076933333326,11.5535414
-Schools,Holme Skole,56.115888672222226,10.178719066666666
+Schools,Holme Skole,56.11588867222223,10.178719066666666
 Schools,Vestergårdskolen,56.12939995,10.15446783125
 Schools,Munkevængets Skole,55.502627292857134,9.448761621428574
 Schools,Læssøegade Skole,56.14661698125,10.18689045625
@@ -415,9 +1214,9 @@ Schools,Frijsenborg Efterskole,56.245107173529405,9.85781353235294
 Schools,Gørlev Idrætsefterskole,55.53681326551724,11.225834789655172
 Schools,Blåhøj Skole,55.8620438,9.0079261
 Schools,Gludsted Friskole,56.03312966,9.30686956
-Schools,Egedal Gymnasium & HF,55.77380273076923,12.197971938461539
-Schools,Gårslev Skole,55.639431919230766,9.701088703846153
-Schools,Valhøj Skole,55.67682901538462,12.450605138461539
+Schools,Egedal Gymnasium & HF,55.77380273076923,12.19797193846154
+Schools,Gårslev Skole,55.639431919230766,9.701088703846152
+Schools,Valhøj Skole,55.67682901538462,12.45060513846154
 Schools,Frederiksgård Skole,55.69663056666666,12.538928353333333
 Schools,Aarupskolen,55.3739503125,10.047073225
 Schools,Vestjydsk Handelsskole & Handelsgymnasium,55.942253888888885,8.511472477777778
@@ -434,7 +1233,7 @@ Schools,Sankt Josefs Skole,55.644216444,12.085224812
 Schools,Fælleshåbsskolen,55.65239686,9.663629826666666
 Schools,Grantofteskolen,55.72573514,12.34380666
 Schools,College HF-Imagine & HF-Outdoor,56.85277853,8.36415574
-Schools,Marievangsskolen,55.40115157142857,11.328927414285713
+Schools,Marievangsskolen,55.40115157142857,11.328927414285712
 Schools,Friskolen Glasværket,55.39796092857143,10.371701157142857
 Schools,Mercantec,56.289215925806445,8.378637412903226
 Schools,Munkebjerg Friskole,55.67016118333333,9.63151363333333
@@ -445,13 +1244,13 @@ Schools,Rathlou Skolen,55.970307454545456,10.140489863636365
 Schools,Skårup Skole,55.09501906470588,10.687002435294117
 Schools,Hundborg Friskole,56.93118792666667,8.523936353333333
 Schools,Gladsaxe Skole,55.74514923,12.469665555
-Schools,Ikast Gymnasium,56.13570067777778,9.126139055555555
+Schools,Ikast Gymnasium,56.13570067777778,9.126139055555557
 Schools,Social- og Sundhedsskolen,55.05045829142857,9.4193252
 Schools,Gladsaxe Ungdomsskole,55.73543897692308,12.48561003076923
 Schools,Terndrup Skole,56.81846653670886,10.057654679746836
 Schools,Risskov Gymnasium,56.19483275,10.21023931875
 Schools,Buddinge Skole,55.74095523,12.504032465
-Schools,Hyldgårds Skolen,56.126642157142854,9.153206157142856
+Schools,Hyldgårds Skolen,56.12664215714285,9.153206157142856
 Schools,Ikast Nordre Skole,56.148835421428565,9.146036528571427
 Schools,Østre Skole,56.13779905,9.16298662
 Schools,Ikast-Brande Ungdomscenter,56.13658414,9.14766684
@@ -459,7 +1258,7 @@ Schools,Slotsparkens Friskole,55.85545197692308,11.982092653846152
 Schools,Grønnemoseskolen,55.7314895,12.499775833333333
 Schools,Fjelstervang Skole,56.0741441375,8.811678075
 Schools,Lyne Friskole,55.801043175,8.489282316666666
-Schools,Gl Hjortespring skole og Kildegårdskolen,55.739087238888885,12.438287772222221
+Schools,Gl Hjortespring skole og Kildegårdskolen,55.739087238888885,12.43828777222222
 Schools,Højmark Skole,56.053345146153845,8.406824615384615
 Schools,Den Lille Skole,55.756268542857136,12.4789538
 Schools,Gladsaxe Privatskole,55.75493168,12.48299384
@@ -474,27 +1273,27 @@ Schools,Hillerslev skole,57.01347565882353,8.729652829411764
 Schools,Gug Skole,57.0051647,9.931857136666666
 Schools,Birkhovedskolen,55.3139507047619,10.797979447619047
 Schools,Herningsholm Erhvervsskole,56.13267242,9.12560933
-Schools,VIA University College,56.1339731,9.126263371428573
+Schools,VIA University College,56.1339731,9.126263371428571
 Schools,Hundelev Skole,57.42522392,9.8459972
 Schools,Hedegårdsskolen,57.28085626216216,9.94132581891892
 Schools,Medieskolerne,56.46382282222223,9.447951158333332
 Schools,Viborg Amtsgymnasium & HF,56.4635044,9.45065308181818
-Schools,Paradisbakkeskolen Nexø,55.067265066666664,15.123834822222221
+Schools,Paradisbakkeskolen Nexø,55.06726506666666,15.12383482222222
 Schools,S/I FGU Nord,55.72955484444445,12.394882066666666
-Schools,Lundby Skole,54.9860681,10.604355066666667
+Schools,Lundby Skole,54.9860681,10.604355066666669
 Schools,Velling Friskole,56.05376053636364,8.314193263636364
 Schools,Herning Friskole,56.13777245555556,8.986867233333333
 Schools,Thise Skole,57.288178142857134,9.813431071428573
 Schools,Den Holistiske Højskole Stensbæk,55.262951125,8.953888675
 Schools,Parkskolen,56.14203121052632,8.979964336842105
-Schools,Holtbjergskolen,56.132304421428564,9.000806557142857
+Schools,Holtbjergskolen,56.13230442142856,9.000806557142857
 Schools,Brændgårdskolen,56.14396665882353,8.966534535294116
 Schools,Herningholmskolen,56.1408978,8.992582275
-Schools,Absalons Skole,55.639731652173914,12.074359634782608
+Schools,Absalons Skole,55.63973165217392,12.074359634782608
 Schools,Bjørns Internationale Skole,55.72173406666666,12.5586849
 Schools,Ryparken Lille Skole,55.72150338,12.5582397
 Schools,Sydbornholms Privatskole,55.02892040769231,14.9814509
-Schools,Strib Idrætsefterskole,55.51893493809524,9.765015776190477
+Schools,Strib Idrætsefterskole,55.51893493809524,9.765015776190475
 Schools,Slotshaven,55.71311103333333,11.702878244444443
 Schools,Skyum Idrætsefterskole,56.83706122,8.572315748571427
 Schools,Kildebakken,55.24108314814815,14.824060462962962
@@ -514,7 +1313,7 @@ Schools,Munkebjergskolen,55.38635642222222,10.398109466666666
 Schools,Nærum Gymnasium,55.8190701,12.533140028571427
 Schools,Tølløse Centralskole,55.61607307037037,11.758364392592592
 Schools,Realskolen,55.711049206666665,11.70691364
-Schools,Campus Bornholm - Administration og EUD,55.10707662941176,14.712775788235295
+Schools,Campus Bornholm - Administration og EUD,55.10707662941176,14.712775788235296
 Schools,Læringscenter Syd,56.06319479090909,9.085257063636364
 Schools,Sevel skole,56.45618546666666,8.867104519444444
 Schools,Søgård Friskole,54.93135274210526,9.447762257894736
@@ -526,12 +1325,12 @@ Schools,Frihedshallen,54.89781525,9.802944478571428
 Schools,Orte Friskole,55.342655609090905,10.096028209090909
 Schools,Skamstrup skolestue,55.6205006,11.4878629
 Schools,Åby Skole,56.150880066666666,10.164200428571428
-Schools,Ros Privatskole & Børnehave,55.62959082857143,12.078351142857143
+Schools,Ros Privatskole & Børnehave,55.62959082857143,12.078351142857144
 Schools,Roskilde Handelsskole,55.62661116315789,12.076085215789472
 Schools,Vallensbæk Skole,55.63226228095238,12.369735195238096
 Schools,Gjøl Skole,57.069596642857135,9.731008857142855
 Schools,Fjerritslev Gymnasium,57.095226896296296,9.269487492592592
-Schools,Ryå Efterskole,57.206671316666664,9.789440941666665
+Schools,Ryå Efterskole,57.20667131666666,9.789440941666664
 Schools,AMU Nordjylland Sandmoseskolen,57.16822767058824,9.489428323529411
 Schools,Ollerup Friskole,55.06891652666666,10.502348097777777
 Schools,Vissenbjerg Skole,55.38850494117647,10.133939752941176
@@ -569,17 +1368,17 @@ Schools,Frederiksberg Privatskole,55.67641639473684,12.458912136842104
 Schools,Skjern Kristne Friskole,55.94092979473684,8.511180957894735
 Schools,Ullerup Bæk Skolen Afd. Skolesvinget,55.5974169125,9.6681916375
 Schools,Toftehøjskolen,55.79058463,12.15408267
-Schools,"Hellebæk Skole, Afd. Apperup",56.07738404285713,12.525830542857141
+Schools,"Hellebæk Skole, Afd. Apperup",56.07738404285713,12.52583054285714
 Schools,Ejby Skole,55.43456356,9.93782567333333
 Schools,Halsted-Avnede Centralskole,54.84841975365853,11.225291773170731
 Schools,Stokkemarke Friskole,54.83487985510204,11.36360551632653
 Schools,Errindlev Skole,54.66786290370369,11.49104235925926
 Schools,Stensnæsskolen,57.21145509090909,10.48910643181818
 Schools,Nørre Åby Realskole,55.4606968372093,9.867975186046513
-Schools,Søren Kanne Skolen afdeling Søndre,56.4086738,10.892858842857143
-Schools,Skolen på Islands Brygge,55.662267369841274,12.582740847619048
+Schools,Søren Kanne Skolen afdeling Søndre,56.4086738,10.892858842857144
+Schools,Skolen på Islands Brygge,55.66226736984128,12.582740847619048
 Schools,Skive Seminarium,56.55082068125,9.0132107875
-Schools,Nordfyns Gymnasium,55.49000243559322,10.244003393220337
+Schools,Nordfyns Gymnasium,55.49000243559322,10.244003393220336
 Schools,Thisted Gymnasium,56.966127718181816,8.698940627272727
 Schools,UCN,56.96784066363636,8.701063618181818
 Schools,Hjørring Private Realskole,57.45722516,9.99699058
@@ -587,7 +1386,7 @@ Schools,Beredskabscenter Aalborgs Uddannelsescenter,57.06394094,9.984272
 Schools,True North Efterskole,55.821246384090905,10.050213077272728
 Schools,Assensskolen,55.2742365,9.9026046125
 Schools,Baunehøjskolen,55.74907967058824,12.119986335294117
-Schools,Østbirk Skole,55.964138162745094,9.757403539215687
+Schools,Østbirk Skole,55.96413816274509,9.757403539215687
 Schools,Stenløse Fritids & Ungdomsklub,55.76201311,12.20083693
 Schools,Aalborg City Gymnasium,57.0422618,9.9213058
 Schools,Guldborgland Skole,54.858542891666666,11.730209391666666
@@ -644,8 +1443,8 @@ Schools,"Glostrup Skole, afd. Skovvang",55.6839594,12.41424736
 Schools,Svendborg Musikskole,55.06230408571429,10.602573771428572
 Schools,Bagsværd Skole,55.75933366216216,12.46234302162162
 Schools,Nørholm Skole,57.03661593333333,9.723425066666666
-Schools,Maglehøjskolen,55.801167703846154,12.1516593
-Schools,Lyngholmskolen,55.82266231785714,12.390066639285713
+Schools,Maglehøjskolen,55.80116770384616,12.1516593
+Schools,Lyngholmskolen,55.82266231785714,12.390066639285712
 Schools,Stavnsholtskolen,55.81556968571429,12.395690614285714
 Schools,Boesagerskolen,55.7335287375,12.3089477875
 Schools,Slagslunde Skole,55.798551417647055,12.216992123529412
@@ -656,17 +1455,17 @@ Schools,Kornmarkskolen Afdeling Lille Lyngby,55.9361285,12.152912484615385
 Schools,Dalmose Skole,55.295016875,11.41695875
 Schools,Karise Skole,55.3081654,12.19099799090909
 Schools,Søndre Skole,55.44664419,12.17651734
-Schools,Havdrup Skole,55.54774593076923,12.129345838461537
+Schools,Havdrup Skole,55.54774593076923,12.129345838461536
 Schools,Søhusskolen,55.43214843,10.37857748
 Schools,Bagsværd Friskole,55.76639241428571,12.446487242857142
 Schools,Strandgårdskolen,55.60778055,12.344062075
-Schools,Erhvervsskolerne Aars,56.804703422222225,9.534186370370369
+Schools,Erhvervsskolerne Aars,56.80470342222223,9.534186370370367
 Schools,Tappernøje Dagskole,55.16949024,11.98111356
 Schools,Hareskov Skole,55.76500522352941,12.402413435294116
 Schools,Syvstjerneskolen,55.777799427272726,12.381286272727271
 Schools,Lille Værløse Skole,55.7857561875,12.3690220375
 Schools,Kragelund Skole,56.196199864,9.404431032
-Schools,Farsø Skole,56.771375030769235,9.337326607692308
+Schools,Farsø Skole,56.77137503076924,9.337326607692308
 Schools,Ullits Skole,56.726379685714285,9.282679421428572
 Schools,Østskolen - Waldorfskolen i Aalborg,57.0228196,9.997103556
 Schools,Tornhøjskolen,57.02487948333333,10.00292085
@@ -708,15 +1507,15 @@ Schools,Hjortebroskolen,55.23268003970588,9.490253764705882
 Schools,Stigs Bjergby Skole,55.673408225,11.48179675
 Schools,Lundtofte Skole,55.79649014736842,12.522077478947368
 Schools,Tingbjerg Skole,55.71865302857143,12.485410314285714
-Schools,Sunds Skole,56.20337572857143,9.019756271428573
+Schools,Sunds Skole,56.20337572857143,9.019756271428571
 Schools,Virum Skole,55.79057907058824,12.4593993
-Schools,Lyreskovskolen,54.843900086666665,9.369623426666665
+Schools,Lyreskovskolen,54.843900086666665,9.369623426666664
 Schools,Kildeskolen,55.4879524375,11.6855535625
 Schools,AMU Hoverdal,56.158005556,8.417243404
 Schools,Sct. Hans Skole,55.41508343333333,10.395997277777775
 Schools,Hedegårdenes Skole,55.640621633333325,12.101577083333332
 Schools,Ansgarskolen,55.33131059090909,8.775735454545455
-Schools,Rødding Højskole,55.369851626666666,9.052697013333331
+Schools,Rødding Højskole,55.369851626666666,9.052697013333333
 Schools,Hertug Hans Skole,55.2451144090909,9.488087190909091
 Schools,Ølgod Efterskole,55.80925912142857,8.632033821428571
 Schools,Silkeborg Gymnasium,56.18268365555556,9.600634814814816
@@ -729,7 +1528,7 @@ Schools,Sabro Korsvejskolen,56.21131424166666,10.02442595
 Schools,Gåsetårnskolen Iselinge Afdelingen,55.01548593,11.90974885
 Schools,Klostermarksskolen,55.65042812307692,12.093664692307692
 Schools,Henriette Hørlücks Skole,55.39927464814815,10.382674296296296
-Schools,Gelsted Skole,55.40253148888889,9.972977222222223
+Schools,Gelsted Skole,55.40253148888889,9.972977222222225
 Schools,Gelsted Børnehus,55.402985842857134,9.974369971428573
 Schools,Strandmølleskolen,55.268308455,9.89266124
 Schools,Nørre Gymnasium,55.71828225,12.47134033
@@ -738,12 +1537,12 @@ Schools,Ærø Friskole,54.88907285,10.40894195
 Schools,Tungelundskolen,56.30487832777778,9.786971
 Schools,Hendriksholm Skole,55.66905105714286,12.457438478571428
 Schools,Campus Viborg,56.45886915625,9.4030414875
-Schools,Friskolen i Viborg,56.4587896,9.405969285714285
-Schools,Fællesskolen Hammelev Sct. Severin,55.25423354347826,9.476795260869565
+Schools,Friskolen i Viborg,56.4587896,9.405969285714283
+Schools,Fællesskolen Hammelev Sct. Severin,55.25423354347826,9.476795260869563
 Schools,Sofie Rifbjerg Efterskole,54.89251922,11.79210448
 Schools,Østermarkskolen,56.80578780392157,9.528087594117649
-Schools,Kongeådalens Efterskole,55.426143307692314,9.0151279
-Schools,Stenlille Ungdomsskole,55.532284157142854,11.586868028571429
+Schools,Kongeådalens Efterskole,55.42614330769232,9.0151279
+Schools,Stenlille Ungdomsskole,55.53228415714285,11.586868028571429
 Schools,Niels Ebbesen Skolen,56.046031064285714,9.944446964285714
 Schools,Brandskolen,54.93194076,9.86719162
 Schools,Højdevangens Skole,55.64656758,12.60384102
@@ -760,7 +1559,7 @@ Schools,SOSU H,55.66752840769231,12.55706806153846
 Schools,Hindsholmskolen,55.51766983333333,10.65844894047619
 Schools,Kildevældsskolen,55.71565806428571,12.569709221428573
 Schools,Holbæk By Skole afdeling Bjergmarkskolen,55.70750013636364,11.738209918181818
-Schools,Aalestrup Naturefterskole,56.69642935,9.512156121428573
+Schools,Aalestrup Naturefterskole,56.69642935,9.512156121428571
 Schools,Kristrup Skole,56.446132692307685,10.056314892307691
 Schools,Frejlev Skole,57.00695822666666,9.810140646666666
 Schools,Fiskebæk Naturskole,55.80178962222222,12.387421488888888
@@ -774,22 +1573,22 @@ Schools,Terslev Skole,55.36719686153847,11.981699676923077
 Schools,Nr. Asmindrup Friskole,55.88660758571429,11.624518028571428
 Schools,Nørre Asmindrup Skole og Videnscenter,55.8877133125,11.62367555625
 Schools,Den Rytmiske Højskole,55.83820765454546,11.552010595454544
-Schools,"Toppedalskolen, Indskolingen",56.92408387058824,9.323618964705881
+Schools,"Toppedalskolen, Indskolingen",56.92408387058824,9.32361896470588
 Schools,Vilsted Friskole,56.90544320357143,9.283900378571428
-Schools,Ulstrup Efterskole,55.85296615,11.625627414285715
+Schools,Ulstrup Efterskole,55.85296615,11.625627414285717
 Schools,Learnmark Horsens,55.86828180555556,9.85670693888889
 Schools,Assentoftskolen,56.444865333333325,10.16318795
 Schools,KUU,55.86013974,9.87274966
 Schools,Rosendalskolen,56.65574204,9.77107518
 Schools,Toppedalskolen,56.95813735294118,9.354726
-Schools,Hovedgård Skole,55.941019075,9.956275246428573
+Schools,Hovedgård Skole,55.941019075,9.956275246428572
 Schools,Grevinge Centralskole,55.80485593333333,11.5929146
 Schools,Hodsager Skole,56.315968193333326,8.856866726666665
 Schools,Esbjerg Ungdomsskole - Novrupskolen,55.46967959,8.53100682
 Schools,Vigersted Skole,55.48419743913043,11.888526908695653
 Schools,Kerteminde Byskole,55.451239045,10.654710395
 Schools,Samsø Efterskole,55.85744864615385,10.63529086153846
-Schools,Rosengårdsskolen,55.377533378571435,10.426645514285713
+Schools,Rosengårdsskolen,55.37753337857144,10.426645514285712
 Schools,Elling skole,57.481022653333326,10.475117293333332
 Schools,Al-Salahiyah Skolen,55.42873322,10.4806778
 Schools,Agedrup Skole,55.4307197,10.482124708333332
@@ -801,8 +1600,8 @@ Schools,Nymarksskolen,55.41078001666666,10.595358408333333
 Schools,"Nordskolen, afd. Odden",55.963027463157886,11.3693018
 Schools,Skovbyskolen,56.15504186363636,9.94267
 Schools,Herstedvester Skole,55.66905510294118,12.34211685
-Schools,Louiseskolen,55.260256908333325,9.488982808333331
-Schools,Favrskov Produtionsskole,56.38824530769231,9.805213923076925
+Schools,Louiseskolen,55.260256908333325,9.488982808333333
+Schools,Favrskov Produtionsskole,56.38824530769231,9.805213923076924
 Schools,Ravsted Skole,55.01103827142857,9.127351866666666
 Schools,Tyske skole Ravsted,55.00517085263158,9.128170005263156
 Schools,Brædstrup Skole,55.973761318181815,9.608169103030304
@@ -810,11 +1609,11 @@ Schools,Sødalskolen,56.53172752888889,9.469835677777777
 Schools,Naturvidenskabernes Hus,56.365053155,9.67456761
 Schools,Idrætsefterskolen Klintsøgaard,55.94840933333333,11.597474055555557
 Schools,Sønderbroskolen,57.03858664,9.93303152
-Schools,Lilleskolen,55.36204567142857,10.399978642857143
+Schools,Lilleskolen,55.36204567142857,10.399978642857144
 Schools,Hellested Skole,55.32872315555556,12.261405
 Schools,Bredsten skole,55.703849041666665,9.37738500833333
 Schools,Slettens skole,55.51183609230769,10.395143076923077
-Schools,Odsherreds Efterskole,55.790356165789476,11.463253313157894
+Schools,Odsherreds Efterskole,55.79035616578948,11.463253313157894
 Schools,Rungsted Gymnasium,55.89616946666666,12.519635983333332
 Schools,Vallerødskolen,55.89447737083333,12.5196546375
 Schools,Lyshøj Friskole,55.82703898125,11.4534059875
@@ -832,7 +1631,7 @@ Schools,Sejs Skole,56.13671209607843,9.619091562745098
 Schools,Sportsefterskolen SINE,55.06595051111111,8.936340177777778
 Schools,Tikøb Skole,56.02111355,12.452760641666666
 Schools,Vindblæs Friskole,56.67508647857143,10.113902185714284
-Schools,Forældreskolen i Aarhus,56.140300866666664,10.198657766666665
+Schools,Forældreskolen i Aarhus,56.14030086666666,10.198657766666663
 Schools,Nygård Skole,56.04604522857143,12.53073315
 Schools,Oehlenschlægersgades Skole,55.6674667625,12.550770833333331
 Schools,Korinth - Dalum Landbrugsskole,55.144680842857134,10.346602228571427
@@ -842,10 +1641,10 @@ Schools,Bredagerskolen,55.75184174375,9.42256275625
 Schools,Rødkilde,54.96902687777778,12.27001458148148
 Schools,Aquatarium - Vandbehandlingsanlæg - Learning center,56.08358907142857,8.422861857142857
 Schools,Skals - højskolen for design og håndarbejde,56.55208128571429,9.401335814285714
-Schools,Gudenådalens Friskole,56.38086900697674,9.619483581395347
+Schools,Gudenådalens Friskole,56.38086900697674,9.619483581395349
 Schools,Benstorffsminde Efterskole,55.16183017777777,10.3834213
 Schools,Højene Skole,57.48163848,9.99369146
-Schools,NEXT Uddannelse København,55.703422972727274,12.534653172727271
+Schools,NEXT Uddannelse København,55.70342297272728,12.534653172727271
 Schools,Aalbæk Skole,57.59494071666666,10.409710833333332
 Schools,Vestre Skole,55.50492269333333,9.729790113333332
 Schools,Strib Skole,55.538897863157885,9.773894642105263
@@ -854,38 +1653,38 @@ Schools,Søndersøskolen,55.78383482666666,12.354231926666666
 Schools,Lemtorpskolen,56.55253074705882,8.327591582352941
 Schools,Lærkeskolen,55.41577179090909,10.042498227272729
 Schools,Bagsværd Kostskole og Gymnasium,55.76433458,12.45171546
-Schools,Tommerup Efterskole,55.326111215384614,10.197494292307692
+Schools,Tommerup Efterskole,55.32611121538461,10.197494292307692
 Schools,Østerhøjskolen,55.750015453333326,12.333656513333333
 Schools,Virum Gymnasium,55.790295885714286,12.47903115
 Schools,Fuglsanggårdsskolen,55.79253776923077,12.478067015384616
 Schools,Kongevejens Skole,55.79011338,12.49155444
 Schools,RcH,55.61796442,12.06370884
 Schools,Bøgballe Friskole,55.82182445714285,9.613014457142857
-Schools,Idrætshøjskolen i Sønderborg,54.8983424,9.802756994736841
+Schools,Idrætshøjskolen i Sønderborg,54.8983424,9.80275699473684
 Schools,Balsmoseskolen,55.7411628,12.307948088888889
 Schools,Roskilde Lille Skole,55.71533207647058,12.141519011764704
 Schools,Hånbækskolen,57.4309072,10.504250052173912
-Schools,Asgård Skole,55.47344513157895,12.167861094736843
+Schools,Asgård Skole,55.47344513157895,12.167861094736844
 Schools,Birkemoseskolen,55.34269109411765,11.124998494117648
 Schools,Vilvorde,55.6242068,12.0952800375
 Schools,Mariager Efterskole,56.64646134285714,9.96909635
-Schools,Tolne Efterskole,57.47778504615385,10.324812646153847
+Schools,Tolne Efterskole,57.47778504615385,10.324812646153848
 Schools,Baggesenskolen,55.32952890666667,11.14200684
 Schools,Center for Skibssikkerhed,57.56816033333333,10.36526912
 Schools,Djurslands Efterskole,56.50524162222222,10.575715361111111
-Schools,Jeksendalskolen,56.081543266666664,10.008296733333331
+Schools,Jeksendalskolen,56.08154326666666,10.008296733333331
 Schools,Ringsted Ny Friskole,55.44402902,11.72770344
 Schools,Bornholms Efterskole,55.12100136666666,14.70406845
 Schools,Maglegårdsskolen,55.74351412941176,12.569542511764704
 Schools,Toubroskolen,56.3570096875,10.7545247875
 Schools,Karlslunde Dagskole,55.574964807142855,12.215318785714285
-Schools,Byggetek,56.463932953846154,9.399381184615384
+Schools,Byggetek,56.46393295384616,9.399381184615384
 Schools,TAMU-Centret,57.065771863157885,9.902004442105264
 Schools,Teknisk Akademi,56.33129213478261,10.054875358695652
 Schools,Sønder Nærå Fri- og Efterskole,55.30962974,10.49858482
 Schools,Lundager skolen,55.89274487777777,9.767860355555555
 Schools,Lund Skolen,55.8933558375,9.76866225
-Schools,Eggertshus,55.107725241666664,10.516026233333331
+Schools,Eggertshus,55.10772524166666,10.516026233333331
 Schools,Frederikshavn Gymnasium og HF-Kursus,57.440390360975606,10.52578154390244
 Schools,Tårnbygårdsskolen,55.619052383333326,12.6052581
 Schools,Filipskolen,57.028460691666666,9.94546255833333
@@ -904,9 +1703,9 @@ Schools,Kollundskole,54.84249484814815,9.447353896296296
 Schools,Marienhoffskolen,56.38541239,10.49669446
 Schools,Glostrup Skole - Nordvang,55.677783192857135,12.399331314285714
 Schools,Voldum Skole,56.365559204,10.162599372
-Schools,Aalborg Handelsskole,57.027620308333326,9.977787108333331
+Schools,Aalborg Handelsskole,57.027620308333326,9.977787108333333
 Schools,Vest Skolen Odder,55.980745192857135,10.1317692
-Schools,Osted Fri- og Efterskole,55.56543741034482,11.971849831034483
+Schools,Osted Fri- og Efterskole,55.56543741034482,11.971849831034485
 Schools,Syddjurs Friskole,56.26676084444445,10.520255855555556
 Schools,Copenhagen International School,55.71194296976744,12.598575525581396
 Schools,Halvorsminde Efterskole,57.4362150090909,9.970515436363636
@@ -934,17 +1733,17 @@ Schools,Skærbæk Realskole,55.1571740875,8.7676121
 Schools,Herfølge Skole,55.41672022790698,12.142418793023255
 Schools,Sydkystens privatskole,55.51838274,12.20812047
 Schools,Nykøbing Falster Realskole,54.76887356551724,11.87194438275862
-Schools,Jelling Friskole,55.755031428571435,9.4227918
+Schools,Jelling Friskole,55.75503142857144,9.4227918
 Schools,Udviklingshuset HR,55.03930938888889,9.793739111111112
 Schools,Svenstrup Efterskole,55.17008029473684,11.766350731578948
-Schools,Hjalleseskolen,55.361253014285715,10.400806385714285
+Schools,Hjalleseskolen,55.36125301428572,10.400806385714285
 Schools,Klokkerholm Skole,57.20827738,10.15603159
 Schools,Nordvest Skolen,56.03809694285714,12.571898257142855
 Schools,Møgeltønder Skole,54.94252525384615,8.803783492307693
 Schools,Korup Skole,55.42065872941176,10.265109335294117
 Schools,Egmont Højskolen,55.92083417777778,10.25073658148148
-Schools,Børnehaven Porskjær,56.15324006428571,9.914800085714285
-Schools,Havbakkeskolen,56.760428758333326,10.191328066666665
+Schools,Børnehaven Porskjær,56.15324006428571,9.914800085714283
+Schools,Havbakkeskolen,56.760428758333326,10.191328066666664
 Schools,Center for specialundervisning til voksne og unge,55.6956917875,9.5121500125
 Schools,Ulstrup Skole,56.3874865590909,9.787408272727273
 Schools,Skads Skole,55.50240141,8.53792368
@@ -954,15 +1753,15 @@ Schools,Stærekassen,56.117531066666665,9.94892
 Schools,Kliplev Skole,54.937731225,9.40631505
 Schools,Østerild Skole,57.0287635375,8.841183675
 Schools,Lerbjergskole,55.965587129629625,11.869830455555556
-Schools,Nørre Uttrup Skole,57.070080088888886,9.948610666666665
+Schools,Nørre Uttrup Skole,57.070080088888886,9.948610666666664
 Schools,Karensmindeskolen,56.882319133333326,9.82987239901961
 Schools,Ole Rømer-Skolen Gadehaven,55.65189419,12.26815985
-Schools,Vandel Efterskole,55.710350506666664,9.208652706666665
+Schools,Vandel Efterskole,55.71035050666666,9.208652706666664
 Schools,Baunehøj Efterskole,55.9070281372549,11.918635503921568
 Schools,Firkløverskolen Mørke afd.,56.33407787142857,10.376404414285714
 Schools,Mørke Skole,56.33294816923077,10.376524076923076
 Schools,Firkløverskolen,56.5035661125,9.96375925
-Schools,Skals Skole,56.55688118148148,9.404954370370369
+Schools,Skals Skole,56.55688118148148,9.404954370370367
 Schools,Ellebækskolen,56.37771671875,8.5789259125
 Schools,Egeskolen,55.760588152941175,12.33931064117647
 Schools,Skægkærskolen,56.21055529473684,9.50260067368421
@@ -980,11 +1779,11 @@ Schools,Søborg Skole,55.734212442857135,12.51172225
 Schools,Ladelund Efterskole,55.485374627272726,9.048947709090909
 Schools,Tilsted Skole,56.94901005,8.642594025
 Schools,Astrup-Sønderskov Friskole,57.4759331,10.096160611111111
-Schools,Lejrskolehjemmet Vesterled,55.925820678571434,8.155411428571426
+Schools,Lejrskolehjemmet Vesterled,55.92582067857144,8.155411428571426
 Schools,Glostrup Skole - Vestervang,55.6668120375,12.377743225
 Schools,Højagerskolen og BFO,55.74237148571429,12.364155082142856
 Schools,Agroskolen,56.13473633636364,9.051734772727272
-Schools,Vordingborg Ungdomsskole og 10. klasse,55.00796251111111,11.919034218518519
+Schools,Vordingborg Ungdomsskole og 10. klasse,55.00796251111111,11.91903421851852
 Schools,Gentofte Skole,55.74290716,12.547348833333333
 Schools,Torstedskolen,55.839192193333325,9.813795233333332
 Schools,Sophienborgskolen,55.951139630769234,12.266862769230768
@@ -1002,7 +1801,7 @@ Schools,Høng Skole,55.509245285714286,11.292717242857142
 Schools,Norddjurs Friskole,56.41733226153846,10.857858092307692
 Schools,Bevtoft Skole,55.19840726842105,9.202936873684209
 Schools,Sønderskov-Skolen,54.90522451052632,9.8120839
-Schools,Sorring Skole,56.177648426666664,9.778133953333331
+Schools,Sorring Skole,56.17764842666666,9.778133953333333
 Schools,Mønsted Skole,56.443082318181816,9.173584454545454
 Schools,International Baccalaureate School Ikast,56.136866184,9.127051428
 Schools,Sophieskolen,54.77419954375,11.8784637
@@ -1011,27 +1810,27 @@ Schools,Suldrup Skole,56.85129038888889,9.7044623
 Schools,Randers Realskole,56.46540870625,10.03657565
 Schools,Korinth Efterskole,55.14473744,10.33215288
 Schools,Rønshoved Højskole,54.87286621304348,9.518751404347826
-Schools,HF-Centret Efterslægten,55.709424411111115,12.513373133333332
-Schools,Uddannelsescenter UiU,55.711384853846155,12.513207169230768
+Schools,HF-Centret Efterslægten,55.70942441111112,12.513373133333332
+Schools,Uddannelsescenter UiU,55.71138485384616,12.513207169230768
 Schools,Sorø Borgerskole,55.43576373333333,11.560235238095238
-Schools,Skørping Skole,56.83360787272727,9.874352663636365
+Schools,Skørping Skole,56.83360787272727,9.874352663636364
 Schools,Aarhus Katedralskole,56.15707936521739,10.212228352173913
-Schools,Bjerregrav Friskole,56.579959133333325,9.505379606666665
+Schools,Bjerregrav Friskole,56.579959133333325,9.505379606666663
 Schools,Christianfeld Skole,55.3548411,9.4869028
 Schools,Havrehedskolen,55.44453855833333,10.194416625
-Schools,Hobro Efterskole,56.6257027,9.856826492307693
+Schools,Hobro Efterskole,56.6257027,9.856826492307691
 Schools,Vemb Skole,56.341912825,8.3486492375
 Schools,Solskinsskolen - Skælskør Skole,55.255675425,11.312643783333332
-Schools,Skælskør Skole,55.254341266666664,11.284444475
+Schools,Skælskør Skole,55.25434126666666,11.284444475
 Schools,Idrætshøjskolen Viborg,56.44117033636364,9.423595227272727
 Schools,Solsideskolen,57.06044107142857,9.920683071428574
 Schools,Ida Holsts Skole,55.05796519047619,10.608431514285714
-Schools,Haderslev Handelsskole,55.2434143,9.495816314285713
+Schools,Haderslev Handelsskole,55.2434143,9.495816314285712
 Schools,Deutsche Schule Hadersleben,55.2436014625,9.4927658625
-Schools,Hadsund Skole,56.72441455384615,10.134327838461537
+Schools,Hadsund Skole,56.72441455384615,10.134327838461536
 Schools,VUC Himmerland,56.72049237,10.12971622
 Schools,Lind Skole,56.10649976,8.983379536
-Schools,Agerskov Skole,55.13173003636364,9.132867090909091
+Schools,Agerskov Skole,55.13173003636364,9.132867090909093
 Schools,Agerskov Ungdomsskole,55.1269521875,9.1325652625
 Schools,Gunslevholm Idrætsefterskole,54.8986643590909,11.959973195454545
 Schools,Helsinge Realskole,56.02614194285714,12.201304807142856
@@ -1059,7 +1858,7 @@ Schools,Romalt Friskole,56.44949,10.0885561
 Schools,Ørsted Børneby,56.5083590090909,10.334564272727272
 Schools,Felsted Centralskole,54.9828885375,9.5104697625
 Schools,"Fladsåskolen, afdeling Mogenstrup",55.17831767692308,11.867903753846152
-Schools,"Fladsåskolen, afdeling Korskilde",55.179133793548395,11.976330603225806
+Schools,"Fladsåskolen, afdeling Korskilde",55.1791337935484,11.976330603225806
 Schools,Kongeskærskolen,55.28378738846153,14.792731469230768
 Schools,Firhøjskole,55.72199606969697,11.367937851515151
 Schools,Hans Rømer Skolen,55.072036204,14.916181892
@@ -1072,12 +1871,12 @@ Schools,Brejninggaard Efterskole,56.1153505090909,8.51384455
 Schools,Langbjergskolen,55.6229849,12.435141725
 Schools,Billesborgskole,55.42730221034483,12.199924639655173
 Schools,Gistrup Skole,56.9916258125,10.00119943125
-Schools,Aalestrup Naturefterskole - Hestelinje,56.692786382608695,9.516209578260867
+Schools,Aalestrup Naturefterskole - Hestelinje,56.692786382608695,9.516209578260868
 Schools,Lykkegårdskolen,55.48041372,9.45057896
 Schools,Saxild skole,55.98681217777778,10.231972266666666
 Schools,Ryom Realskole,56.38168668,10.49994064
 Schools,Hadsten Skole,56.33319023,10.05623084
-Schools,Skovlyskolen,55.823986128571434,12.492123685714285
+Schools,Skovlyskolen,55.82398612857144,12.492123685714285
 Schools,Holte Skole,55.815650542857135,12.4716711
 Schools,Bobjergskolen,55.81484316363636,11.504854036363636
 Schools,Odsherreds Gymnasium,55.81620852,11.51022042
@@ -1106,17 +1905,17 @@ Schools,Nordre Skole,55.47225342608696,8.695833373913043
 Schools,Efterskolen Smededal,55.65739847142857,11.497050971428571
 Schools,Kildebjergskolen,55.64233448666666,11.50205134
 Schools,Lyngby Friskole,55.7677228,12.493020883333331
-Schools,Endelave Skole,55.75851196666667,10.276523016666665
+Schools,Endelave Skole,55.75851196666667,10.276523016666664
 Schools,Gullestrup Skole,56.16847602352941,8.970523905882354
 Schools,Eckersberg Friskole,54.98731695625,9.6617251125
-Schools,Hundige Lille Skole,55.605075545454554,12.33373019090909
+Schools,Hundige Lille Skole,55.60507554545456,12.33373019090909
 Schools,Greve Privatskole,55.60490997272727,12.335441872727271
 Schools,Nørre Alslev Skole,54.89518175,11.882636645833331
 Schools,Tjæreborg Skole,55.46388746190476,8.582563385714284
 Schools,Lumby Skole,55.45504099333333,10.375240613333332
 Schools,Tingbakkeskolen,56.04639461363636,12.363232877272727
 Schools,Hellebæk Skole,56.07346443636364,12.54900728181818
-Schools,Lundebakkeskolen,55.253533225,11.882664966666667
+Schools,Lundebakkeskolen,55.253533225,11.882664966666669
 Schools,Ørslev skole,55.04231655,11.9714312
 Schools,10'eren,56.78613696,8.8343944
 Schools,Morsø Gymnasium,56.78494252,8.83479375
@@ -1136,7 +1935,7 @@ Schools,Spjald Skole,56.1274182,8.506021635714285
 Schools,Gedved Skole,55.93160254615385,9.851139926923077
 Schools,Mariager Skole,56.64904751818182,9.974695445454543
 Schools,Gl. Lindholm Skole,57.06941096190476,9.908861709523809
-Schools,Skovbakkeskolen,55.970034815789475,10.14423037368421
+Schools,Skovbakkeskolen,55.97003481578948,10.14423037368421
 Schools,Simac Nautisk Institut,55.06540589090909,10.619022554545454
 Schools,Svendborg Søfartsskole,55.06538356,10.61764093
 Schools,Kystskolen Løkkemark,55.5373231,10.289757
@@ -1145,7 +1944,7 @@ Schools,Midtdjurs Friskole,56.40889539090909,10.571368909090909
 Schools,Ramløse Skole,56.014186714285714,12.116079928571429
 Schools,Femmøller Efterskole,56.238950733333326,10.580383533333332
 Schools,Humlehøj Skolen,54.92019322142857,9.803666207142856
-Schools,Heldagsskolen,55.138138041176475,15.008258335294116
+Schools,Heldagsskolen,55.13813804117648,15.008258335294116
 Schools,Skovmoseskolen,55.67949054444445,12.443312838888888
 Schools,Nordgårdsskolen,55.63488259,12.01186458
 Schools,Fjordskolen,54.8475585625,9.403053675
@@ -1160,7 +1959,7 @@ Schools,Rudolf Steiner Skolen i Aarhus,56.13634089032258,10.206954654838707
 Schools,Middelfart Friskole,55.486340265,9.76062894
 Schools,Nivå Skole Nord,55.94036838571429,12.490735485714284
 Schools,Finderuphøj Skole,56.44226797391304,9.37926494347826
-Schools,HellumFRI,56.82122192222222,9.961024066666665
+Schools,HellumFRI,56.82122192222222,9.961024066666663
 Schools,Øster Starup Skole,55.59852138125,9.443920975
 Schools,Sfo Erritsø Centralskole,55.54275252,9.71037016
 Schools,Resenbro Skole,56.18172766666667,9.65423405
@@ -1170,7 +1969,7 @@ Schools,Bymarkskolen,56.63002004285713,9.809439557142856
 Schools,Gjessø Skole,56.11410185,9.4858571375
 Schools,Grindsted Søndre Skole,55.75194388888889,8.924044811111111
 Schools,Harboøre Skole,56.61781366923077,8.178190161538462
-Schools,Solhverv Privatskole,56.7256824,9.817684391666665
+Schools,Solhverv Privatskole,56.7256824,9.817684391666663
 Schools,Nørrevangsskolen,56.476697164,10.037846952
 Schools,Falck Uddannelsescenter,56.486185854545454,10.02707729090909
 Schools,Københavns Erhvervsakademi,55.70379713,12.537158105
@@ -1182,9 +1981,9 @@ Schools,Haderup Skole,56.38874986,8.99757259
 Schools,Hammelev Skole,55.24602921666666,9.3867597
 Schools,Dueholmskolen,56.78365328,8.83984631
 Schools,Esbjerg International School,55.5309387,8.41062994
-Schools,Sydfalster Skole,54.708803845454554,11.920500563636365
+Schools,Sydfalster Skole,54.70880384545456,11.920500563636365
 Schools,Rådmandsgade Skole,55.69906006190476,12.550313085714285
-Schools,Strynø Skole,54.90547128333333,10.608419866666665
+Schools,Strynø Skole,54.90547128333333,10.608419866666663
 Schools,Branderup Friskole,55.12662837,9.06348694
 Schools,BillundSkolen,55.72547878,9.10373602
 Schools,Hejnsvig Skole,55.692269216666666,8.998156766666666
@@ -1194,7 +1993,7 @@ Schools,Rødding Skole,56.64430623571429,8.809245828571427
 Schools,Lem Skole,56.59236883529412,8.784088211764708
 Schools,"Katrinedalskolen, Afd. Udby",55.75565642,11.70989906
 Schools,Højby Skole,55.91014809393939,11.595327009090909
-Schools,Sjørslev Skole,56.33086532222222,9.434157644444445
+Schools,Sjørslev Skole,56.33086532222222,9.434157644444443
 Schools,Kirke Saaby SKole,55.63702372727273,11.871166445454543
 Schools,Kirke Hyllinge Skole,55.708381977777776,11.898273244444445
 Schools,Suså Skole - Afdeling Glumsø,55.3579542,11.685931771428573
@@ -1204,7 +2003,7 @@ Schools,Grejs Friskole,55.762697977777776,9.53447308888889
 Schools,Thyregod Skole,55.90709244545455,9.261014727272729
 Schools,Hærvejsskolen,55.06056557142857,9.323462064285714
 Schools,Mørdrupskolen,55.997753646153846,12.539913476923076
-Schools,Hirtshals SkoleCenter,57.587597711111115,9.9603598
+Schools,Hirtshals SkoleCenter,57.58759771111112,9.9603598
 Schools,Grøndalsvængets Skole,55.69832608333333,12.526367883333332
 Schools,Balling Skole,56.61008654444445,8.880653666666666
 Schools,Hårup Skole,56.288346542857134,10.2162658
@@ -1212,11 +2011,11 @@ Schools,Vodskov Skole,57.10840571,10.02492208
 Schools,Flyveren,55.84083601428571,9.813608642857142
 Schools,Kulsbjerg Skole Afdeling Mern,55.04711094444445,12.063566277777776
 Schools,Alkestrupskolen,55.379695171428565,12.074764814285714
-Schools,Horne Efterskole,57.562675709090904,9.986449627272728
+Schools,Horne Efterskole,57.5626757090909,9.986449627272728
 Schools,Ans Skole,56.307919025,9.5858639875
-Schools,Hellevad Skole,55.078010307142854,9.2093463
+Schools,Hellevad Skole,55.07801030714285,9.2093463
 Schools,Fjordlandsskolen - Afdeling Skibby,55.74673409166667,11.965122866666666
-Schools,Vestbjerg Skole,57.1356104,9.961473128571427
+Schools,Vestbjerg Skole,57.1356104,9.961473128571429
 Schools,Grindsted Skole,57.1495814,10.04295655
 Schools,Vorbasse Skole,55.6289408625,9.084535325
 Schools,Holeby Ungdomsskole,54.712385825,11.45575815
@@ -1230,13 +2029,13 @@ Schools,Kirkeskovskolen,55.23502582,11.44441412
 Schools,Fårevejle skole,55.78515051,11.47281277
 Schools,Stilling Skole,56.05802374324324,9.982034767567567
 Schools,Sjørring Skole,56.952917954545455,8.593613836363636
-Schools,Nørre Jernløse Skole,55.663830475,11.628405166666665
+Schools,Nørre Jernløse Skole,55.663830475,11.628405166666663
 Schools,Fredericia Gymnasium,55.57761966428571,9.748042314285714
 Schools,Ejer Bavnehøjskolen,55.97605494444445,9.863437211111112
 Schools,Kelstrup Naturskole,54.88017928,9.43971816
 Schools,Bramdrup Skole,55.526617846875,9.466779878125
 Schools,Skjoldskolen,55.805134858333325,9.9526025
-Schools,Lyshøjskolen,55.50340060303031,9.528235212121213
+Schools,Lyshøjskolen,55.50340060303031,9.528235212121212
 Schools,Aulum - Hodsager Skole,56.26536573529412,8.799078741176471
 Schools,Vendsyssel Friskole,57.50695628181818,10.279674654545454
 Schools,Testrup Højskole,56.06760913181817,10.134405313636364
@@ -1250,20 +2049,20 @@ Schools,Blovstrød Skole,55.86658284,12.385666866666666
 Schools,Det Kongelige Vajsenhus,55.68410006,12.5665466
 Schools,Hammershøj Skole,56.50738166666667,9.7414727
 Schools,Ordrup Gymnasium,55.76000557692308,12.575781
-Schools,Rosborg Gymnasium,55.706709320689654,9.514294972413792
+Schools,Rosborg Gymnasium,55.70670932068965,9.514294972413792
 Schools,Sankt Birgitta Skole,54.77489656153846,11.5095774
-Schools,Maribo Gymnasium,54.77342148571429,11.508403238095237
+Schools,Maribo Gymnasium,54.77342148571429,11.508403238095235
 Schools,Sædding Efterskole,56.02320516,8.54937496
 Schools,Vejle Friskole,55.7147132375,9.5469616
-Schools,Flakkebjerg Efterskole,55.320241016666664,11.392378625
+Schools,Flakkebjerg Efterskole,55.32024101666666,11.392378625
 Schools,Flakkebjerg Friskole,55.309709283333326,11.393753433333332
-Schools,Langå Skole,56.400457472727275,9.900083918181817
+Schools,Langå Skole,56.40045747272728,9.900083918181815
 Schools,Hem Skole,56.59618055,8.961174825
 Schools,Trørødskolen,55.8386228,12.526939629629627
 Schools,Nr Lyndelse Friskole,55.30315697,10.38946259
 Schools,Ødis Skole,55.40206169375,9.3763855625
 Schools,Lille Næstved Skole afd. Hyllinge,55.25785419333333,11.597494593333332
-Schools,Engesvang Skole,56.170432542857135,9.343125935714285
+Schools,Engesvang Skole,56.170432542857135,9.343125935714284
 Schools,Søndergades Skole,57.2660148875,9.9399371875
 Schools,Rødkærsbro Skole,56.3554959,9.50292705
 Schools,Nordbakkeskole,55.406663944444446,11.884550155555557
@@ -1276,14 +2075,14 @@ Schools,Holbæk Lilleskole,55.71216895,11.676292016666666
 Schools,Hvilsom Friskole,56.65804939473684,9.611666915789472
 Schools,Genner Skole,55.12364155,9.43721269
 Schools,Markusskolen,55.50992218,8.41535376
-Schools,Øse Efterskole,55.649420666666664,8.66087925
+Schools,Øse Efterskole,55.64942066666666,8.66087925
 Schools,Ulvig Ruinby,55.482555505,8.539145685
 Schools,Højmeskolen,55.35224914166666,10.337840908333332
 Schools,Dronninglund Skole,57.15150459444445,10.283406983333332
 Schools,Vejrup Skole Fortuna,55.52324388571429,8.783529885714286
 Schools,"Hannæs-Østerild skole, Vesløs afdelingen",57.03046384,8.96775502
 Schools,Vedersø Idrætsefterskole,56.23509288,8.202438924
-Schools,The International,56.235422316666664,8.19884975
+Schools,The International,56.23542231666666,8.19884975
 Schools,Gørding Skole,55.47313863125,8.7968972
 Schools,Esrum Kost- og Friskole,56.04957518181818,12.3782717
 Schools,Vestbyen Friskole,56.39228498571429,8.57916547142857
@@ -1298,14 +2097,14 @@ Schools,Kirkeskolen,55.94585812,8.4993647
 Schools,Skolen ved Bülowsvej,55.6821826,12.546053523809524
 Schools,Borremose Efterskole,56.7664604,9.57679296
 Schools,Stige Skole,55.437207066666666,10.4064551
-Schools,Kastanievej Efterskole,55.678149478571434,12.542984485714284
+Schools,Kastanievej Efterskole,55.67814947857144,12.542984485714284
 Schools,Danmarks Medie- og Journalisthøjskole,56.1714056,10.19337222
 Schools,Sønderlandsskolen,56.3529828625,8.615492304166665
 Schools,Skolen ved Kløften,55.2558756625,9.4923734625
 Schools,Sparkær Skole,56.4746338875,9.2277664375
 Schools,Funder Skole,56.1487476,9.460555455555555
 Schools,Vejlebroskolen,55.616794038461535,12.366633684615383
-Schools,Skibelund Efterskole,55.44556498333333,9.110364041666665
+Schools,Skibelund Efterskole,55.44556498333333,9.110364041666664
 Schools,Ungdomshøjskolen ved Ribe,55.290043,8.68126265
 Schools,Brejning Efterskole,55.67562815142857,9.682049451428572
 Schools,Lundby Efterskole,55.105746495,11.867858005
@@ -1313,12 +2112,12 @@ Schools,Skanderup Hjarup Forbundsskole,55.460189166666666,9.34737323333333
 Schools,Videbæk Skole,56.09179213333333,8.6098084
 Schools,Tjørnegårdsskolen,55.75513628,12.5306697
 Schools,LIFE campus,55.7838863,12.53266212
-Schools,Midtbyens Gymnasium,56.44856898181818,9.396453713636365
+Schools,Midtbyens Gymnasium,56.44856898181818,9.396453713636364
 Schools,Vester Mariendal Skole,57.022240261538464,9.90975223076923
 Schools,Ansager Skole,55.704711144444445,8.756461222222223
 Schools,Kvie Sø Efterskole,55.72057982222223,8.754906155555556
 Schools,Haahrs Skole,55.06283126666666,10.605048308333332
-Schools,Børkop Højskole,55.643665978571434,9.651629835714285
+Schools,Børkop Højskole,55.64366597857144,9.651629835714283
 Schools,Kildemarkskolen,55.23207200769231,11.7804875
 Schools,Kærbyskolen,57.0281653,9.91654845
 Schools,Hjallerup Skole,57.16505865,10.15382845
@@ -1330,9 +2129,9 @@ Schools,Vesterbro Ny Skole,55.66571171052632,12.540393368421052
 Schools,Sdr. Felding Skole,55.9453046125,8.790299125
 Schools,Pilegårdsskolen,55.62063877857143,12.594858328571428
 Schools,Mellerup Efterskole,56.517460263157886,10.207061842105263
-Schools,Mellerup Friskole og Naturbørnehave,56.51935081818181,10.204682918181819
+Schools,Mellerup Friskole og Naturbørnehave,56.51935081818181,10.20468291818182
 Schools,Ankermedets Skole,57.72646684545455,10.584344709090908
-Schools,Roligheds Skolen,56.956826791176475,8.72637699117647
+Schools,Roligheds Skolen,56.95682679117648,8.72637699117647
 Schools,Eriksminde Efterskole,55.94988156,10.210275273333332
 Schools,MADlejr,54.96302301428571,8.697424242857142
 Schools,Naturskolen Kratskellet,55.42644804285714,8.692030471428572
@@ -1341,15 +2140,15 @@ Schools,Lindbjergskolen,56.138203508333326,9.064744475
 Schools,Alme Kristne Friskole,56.09667087,12.26764292
 Schools,Gribskov Efterskole,56.072818915384616,12.16745456153846
 Schools,Skolen ved Nordens Plads,55.67007085555556,12.503198277777775
-Schools,Frelloskolen,55.632904011111115,8.467741566666666
+Schools,Frelloskolen,55.63290401111112,8.467741566666666
 Schools,Knudsøskolen,56.10703963333333,9.78230505
 Schools,Horne-Asdal Skole,57.56358938333333,10.007349083333333
 Schools,Højmarkskolen,55.50080274,8.91359854
 Schools,Nærum Privatskole,55.8216107375,12.544109975
 Schools,Løgstrup Skole,56.51207732,9.33490762
-Schools,Harløse Skole,55.926722342105265,12.238282957894736
+Schools,Harløse Skole,55.92672234210527,12.238282957894736
 Schools,Raadvad Naturskole,55.8061276875,12.5601830625
-Schools,Regnbueskolen,56.2546543,9.838664083333331
+Schools,Regnbueskolen,56.2546543,9.838664083333333
 Schools,Lyngby Private Skole,55.77077994117647,12.5008559
 Schools,Ringkøbing Gymnasium,56.0939869125,8.25876251875
 Schools,Søndersøskolen afd. Søndersø,55.48763514285714,10.249343278571429
@@ -1364,7 +2163,7 @@ Schools,"Glas- og keramikskolen, Bornholm",55.07423263,15.14101429
 Schools,Rosenvængets Skole,56.44190775384615,9.377492353846154
 Schools,Ellemarkskolen,55.45447019375,12.16458005
 Schools,Køge Gymnasium,55.45524788,12.16915512
-Schools,Løve-Ørslev Skole,55.47694427692308,11.382220538461539
+Schools,Løve-Ørslev Skole,55.47694427692308,11.38222053846154
 Schools,Klippen,56.193511056,9.695629568
 Schools,Voel Skole,56.18748409473684,9.699513378947367
 Schools,Amagerskolen,55.94221883103448,8.487196065517242
@@ -1375,7 +2174,7 @@ Schools,Karup Skole,56.30742458148148,9.169674562962964
 Schools,Magleby Skolecenter.,55.222115877777775,11.303123222222222
 Schools,Lillebjerg Skole,55.95585805833333,11.856414041666666
 Schools,Hvinningdalskolen,56.172603418181815,9.497937845454544
-Schools,Christianshavns Skole - filialen,55.672547011111114,12.595606666666667
+Schools,Christianshavns Skole - filialen,55.67254701111112,12.595606666666669
 Schools,Asmild Kloster Landbrugsskole,56.44974512,9.42917249
 Schools,Bavneskolen,55.31319614444445,12.060691555555556
 Schools,Natur & Helhedsskolen Billesbølle,55.4317993,10.038842872727272
@@ -1385,7 +2184,7 @@ Schools,Høng Gymnasium,55.50678815714286,11.287727757142855
 Schools,Brændkjærskolen,55.47588156829268,9.48236592926829
 Schools,Viborg private Realskole,56.449000596,9.402786808
 Schools,Kildebakkeskolen,56.1955083,8.774256715
-Schools,Elbæk Efterskole,55.9200152047619,9.997572085714285
+Schools,Elbæk Efterskole,55.9200152047619,9.997572085714284
 Schools,Stjernevejsskolen,55.7807157,9.694127327777776
 Schools,Skrødstrup Efterskole,56.62412319130434,10.056673652173911
 Schools,Adventure Efterskolen,54.86287538636364,9.72192219090909
@@ -1411,7 +2210,7 @@ Schools,Kundby Friskole og Børnehus,55.71068626,11.52732432
 Schools,Provstegaardskolen,55.3921183,10.339386633333332
 Schools,Overlund skole,56.44723834,9.4369568
 Schools,Vojens Gymnastik- og Idrætsefterskole,55.2470592,9.293227121052633
-Schools,Langelands Efterskole,54.940773925925924,10.731244885185184
+Schools,Langelands Efterskole,54.94077392592592,10.731244885185184
 Schools,Sdr. Kongerslev Skole,56.88902843333333,10.117638411111113
 Schools,Præstegårdsskolen,55.47108605384615,8.490984496153846
 Schools,Faaborgegnens Efterskole,55.1029933625,10.18187104375
@@ -1425,7 +2224,7 @@ Schools,Grejsdalens Efterskole,55.7271603,9.5329119875
 Schools,Biersted Skole,57.147637758333325,9.808953925
 Schools,Karise Efterskole,55.30640264285714,12.200391528571428
 Schools,Hillerød Lilleskole,55.899604144444446,12.337365688888887
-Schools,Allerslev Skole,55.602387609090904,11.964075736363636
+Schools,Allerslev Skole,55.6023876090909,11.964075736363636
 Schools,Kokkedal Skole,55.9098799,12.485201128571427
 Schools,Haslev Privatskole,55.31549656363636,11.966209448484848
 Schools,Skansevejens Skole,57.060494375,9.922549383333331
@@ -1443,17 +2242,17 @@ Schools,Alslev skole og SFO,55.58749589642857,8.417529292857143
 Schools,Sorø Gymnastikefterskole,55.39754084,11.545818456
 Schools,Familieinstitutionen Topshøj,55.3952212,11.544547358333332
 Schools,Vesthimmerlands Gymnasium & HF,56.800869825,9.523354995
-Schools,Paderup Gymnasium,56.431752504347834,10.075354304347826
-Schools,Aarhus Friskole,56.13895221666667,10.111799566666665
+Schools,Paderup Gymnasium,56.43175250434784,10.075354304347826
+Schools,Aarhus Friskole,56.13895221666667,10.111799566666663
 Schools,Verninge Skole,55.28862093636364,10.193406427272729
 Schools,Nymarkskolen,55.07343997368421,10.637510226315788
-Schools,Ullerød Skole,55.94433591111111,12.264472722222221
+Schools,Ullerød Skole,55.94433591111111,12.26447272222222
 Schools,Skovshoved Skole,55.7614576,12.594348021052632
 Schools,Johannesskolen,55.946590669230766,12.308777438461538
 Schools,Høng Privatskole,55.51124257058824,11.288686076470588
 Schools,Solrød Gymnasium,55.533357383333325,12.212416683333332
 Schools,Kroggårdsskolen,55.42543758,10.34973748
-Schools,Ålykkeskolen,55.49251448571429,9.464880135714285
+Schools,Ålykkeskolen,55.49251448571429,9.464880135714283
 Schools,Vesterlund Efterskole,55.912591820689656,9.33068063103448
 Schools,Houlkærskolen,56.46338876666666,9.456419771111111
 Schools,Møllehøjskolen,56.41874595,9.443021466666666
@@ -1472,16 +2271,16 @@ Schools,Skipper Clement Skolen,57.04042236923077,9.9159927
 Schools,Brårup Skole,56.551157054545456,9.032900354545454
 Schools,Park Allé Privatskole,55.6550588625,12.398543275
 Schools,Hørby Efterskole,57.31969836315789,10.385260642105264
-Schools,Mølleskolen,56.09084329791666,9.762051383333331
-Schools,Nordjyllands Idrætshøjskole,57.276608966666664,9.946108890909091
+Schools,Mølleskolen,56.09084329791666,9.762051383333333
+Schools,Nordjyllands Idrætshøjskole,57.27660896666666,9.946108890909091
 Schools,NEXT Sydkysten Gymnasium,55.61630376666666,12.363126285714284
-Schools,Flemming Efterskole,55.87065351481482,9.660424918518519
+Schools,Flemming Efterskole,55.87065351481482,9.66042491851852
 Schools,Esbjerg Realskole,55.47490550714286,8.452869742857143
 Schools,Åkjærskolen,56.56665528125,9.02256065625
-Schools,Friskolen på Røsnæs,55.734070180952386,10.963352633333333
-Schools,Koldingegnens Idrætsefterskole,55.498225580952386,9.580837352380952
+Schools,Friskolen på Røsnæs,55.73407018095239,10.963352633333333
+Schools,Koldingegnens Idrætsefterskole,55.49822558095239,9.580837352380952
 Schools,Byens Skole,55.6582065,12.505942971428572
-Schools,Husum Skole,55.70556205,12.473552866666665
+Schools,Husum Skole,55.70556205,12.473552866666664
 Schools,Nyborg Private Realskole,55.31188860625,10.797069
 Schools,Staby Efterskole,56.27439564347826,8.29153639130435
 Schools,Glejbjerg Børne Og Skolecenter Sfo,55.55913659230769,8.82867496153846
@@ -1492,9 +2291,9 @@ Schools,Design- & Idrætsefterskolen Skamling,55.407476591666665,9.549657025
 Schools,Dalby Skole,55.47429582121212,9.513062645454545
 Schools,Lystrup Skole,56.23745618709677,10.230780748387096
 Schools,Zealand,55.631185765,12.076803375
-Schools,Horsens Byskole,55.872642028571434,9.8400854
+Schools,Horsens Byskole,55.87264202857144,9.8400854
 Schools,Tingstrup Skole,56.9595525875,8.66593238125
-Schools,Haderslev Katedralskole,55.26000492608696,9.490795160869565
+Schools,Haderslev Katedralskole,55.26000492608696,9.490795160869563
 Schools,Birkerød Skole,55.841176293103445,12.4147331
 Schools,Egtved Skole,55.61864028333333,9.316204491666666
 Schools,Esbjerg Gymnasium & HF,55.48887537142857,8.490911207142858
@@ -1504,24 +2303,24 @@ Schools,UCHolstebro Teknologi Centret,56.37659077142857,8.603829528571428
 Schools,Privatskolen Als,54.912778476,9.806617156
 Schools,Århus Akademi,56.18318214761905,10.196135752380952
 Schools,Herlev Privatskole,55.74280037857143,12.411883971428573
-Schools,Hansenberg,55.50952563170732,9.468388775609757
+Schools,Hansenberg,55.50952563170732,9.468388775609755
 Schools,Sønder Bjert Centralskole,55.459738740540544,9.554148543243246
 Schools,Sejergaardsskolen,55.61286369090909,11.769784836363636
 Schools,Antvorskov Skole,55.39201388,11.357343246666666
 Schools,Aalborghus Gymnasium,57.0259165,9.941027152173913
-Schools,Giersings Realskole,55.391870653846155,10.390331996153845
+Schools,Giersings Realskole,55.39187065384616,10.390331996153844
 Schools,Hjembæk Efterskole,55.69455418461538,11.404505853846151
 Schools,Sct. Michaels Skole,55.48575873125,9.4658069625
 Schools,Vibenshus Skole,55.70876697142857,12.579039971428571
 Schools,Frisholm Skole,56.0812139075,9.5445411325
-Schools,Sulsted Skole,57.15777794482759,9.964047196551725
-Schools,Mørkhøj Skole,55.72367173714286,12.468560494285715
+Schools,Sulsted Skole,57.15777794482759,9.964047196551723
+Schools,Mørkhøj Skole,55.72367173714286,12.468560494285716
 Schools,Hobrovejens Skole,56.46728800384615,10.02417713076923
 Schools,VUC Roskilde,55.63994489230769,12.082179392307692
 Schools,Kongensgaard Efterskole,56.558498988888886,8.409170933333332
 Schools,Onsild Idrætsefterskole,56.587712075,9.761582808333332
 Schools,CELF,54.77859983571429,11.505600514285714
-Schools,Social- og Sundhedsskolen Esbjerg,55.500183311764715,8.449234029411762
+Schools,Social- og Sundhedsskolen Esbjerg,55.50018331176472,8.449234029411762
 Schools,Fjordvang Efterskole,56.04813390571429,8.312610448571427
 Schools,Kjellerup Skole,56.2862961,9.4291768
 Schools,Niels Steensens Gymnasium,55.707945008695646,12.566551117391304
@@ -1533,12 +2332,12 @@ Schools,Billeshave Efterskole,55.536751961538464,9.80227273076923
 Schools,FGU Nordvestsjælland,55.64581275769231,11.284336765384616
 Schools,Erlev Skole,55.23807988666666,9.48553015333333
 Schools,Fællesskolen Favrdal-Fjelstrup – afdeling Favrdal,55.26142872580645,9.507789690322578
-Schools,Hulvej Skole,55.863410833333326,9.856973366666665
+Schools,Hulvej Skole,55.863410833333326,9.856973366666663
 Schools,Byskolen,54.83298983666666,11.133155963333332
 Schools,Ærø Efterskole,54.871543707142855,10.355791814285714
 Schools,Jersie Privatskole,55.52622752727273,12.16750789090909
 Schools,Fjerritslev Skole,57.09057644444445,9.263669941666665
-Schools,Nordfyns Højskole,55.5481732,10.108127592857143
+Schools,Nordfyns Højskole,55.5481732,10.108127592857144
 Schools,Hadbjerg Skole,56.3293112090909,10.104916563636364
 Schools,Bramsnæsvigskolen,55.68377121666666,11.847044708333332
 Schools,Skolerne i Oure - Surfbase,55.060799177777774,10.707601144444444
@@ -1549,7 +2348,7 @@ Schools,Slagelse Gymnasium,55.401457432,11.336641604
 Schools,Professionshøjskolen Absalon,55.406803418181816,11.344442063636365
 Schools,Aarhus Børnehøjskole,56.16013463,10.20507889
 Schools,Vester Nebel Skole,55.56773349473684,9.40068137368421
-Schools,Nicolai for Børn,55.490915953846155,9.47056506153846
+Schools,Nicolai for Børn,55.49091595384616,9.47056506153846
 Schools,Skolen i Peter Vedels Gade,55.665830808333325,12.593276158333332
 Schools,Tune Skole Højen,55.595772725,12.17110345
 Schools,Tune Skole Lunden,55.5947454,12.193789188888887
@@ -1561,7 +2360,7 @@ Schools,Fanø Skole,55.44524855,8.393340125
 Schools,Buskelundskolen,56.18358665555556,9.510274833333332
 Schools,Bjerringbro Gymnasium,56.364901,9.6713908
 Schools,Egeskovskolen,56.37650425,9.6402393875
-Schools,Bøgeskovskolen,56.36436106923077,9.666940161538461
+Schools,Bøgeskovskolen,56.36436106923077,9.66694016153846
 Schools,Fællesskolen Starup-Øsby,55.233254725,9.5422393875
 Schools,Den Moderne Kulturelle Skole,56.17507384,10.14296708
 Schools,Østre skole,55.50000795882353,9.741475388235294
@@ -1575,12 +2374,12 @@ Schools,Odder lille Friskole,55.97087325833333,10.155778758333332
 Schools,Halgård Skole,56.33306432727273,8.6611887
 Schools,Fryndesholm Skole,54.98184807,9.97216639
 Schools,Vrå Skole og Børnehus,57.34974731764706,9.952629094117649
-Schools,Via University College,56.192954954166666,10.181044366666667
+Schools,Via University College,56.192954954166666,10.181044366666669
 Schools,Saltum Skole,57.27553473170732,9.696892758536585
 Schools,Askovmalt skole,55.47066848181817,9.083669527272727
 Schools,Eltang Skole og Børnehave,55.53026765,9.5339963
 Schools,Fynslund skole og børnehus,55.54566247142857,9.3154021
-Schools,Vonsild Skole,55.45127626296296,9.470698059259261
+Schools,Vonsild Skole,55.45127626296296,9.47069805925926
 Schools,Bylderup Bov Kristne Friskole,54.9321638,9.069051028571428
 Schools,4kløverskolen,55.23661735,10.742470566666666
 Schools,Lyshøjskolen Nord,55.505679821428565,9.534445514285714
@@ -1593,10 +2392,10 @@ Schools,Aabenraa Statsskole,55.045506745,9.41151326
 Schools,Sønderrisskolen Aura - Ravnsbjerggård,55.52396624,8.43089693
 Schools,Per Gyrum Skolen,55.937204325,12.48999936875
 Schools,Skolehaven,55.294835433333326,11.418111466666666
-Schools,Himmelbjergegnens Natur- og Idrætsefterskole,56.10073789333333,9.638362506666665
+Schools,Himmelbjergegnens Natur- og Idrætsefterskole,56.10073789333333,9.638362506666663
 Schools,Odinskolen,55.40939206875,10.43001481875
 Schools,Holluf Pile Skole,55.365154057894735,10.4498439
-Schools,Det Kongelige Teater Balletskolen Odense,55.39755390952381,10.384322266666667
+Schools,Det Kongelige Teater Balletskolen Odense,55.39755390952381,10.384322266666668
 Schools,Marie Jørgensens Skole,55.39993154375,10.387408425
 Schools,Skibhus Friskole,55.406452888888886,10.390804433333331
 Schools,Odense Privatskole,55.400524275,10.4209725875
@@ -1609,14 +2408,14 @@ Schools,Nordjyllands Idrætsefterskole Stidsholt,57.27264066,10.4427584
 Schools,Skærbæk Distriktsskole,55.15512030434783,8.75425056521739
 Schools,Hermitage - Skolehjem & Kursuscenter,55.48848068333333,8.442679783333332
 Schools,Odense Friskole,55.39214,10.39798464736842
-Schools,Sorø Akademi,55.430072671794875,11.555928405128205
+Schools,Sorø Akademi,55.43007267179488,11.555928405128205
 Schools,Sluseholmen Skole,55.65547401818181,12.554929872727271
 Schools,Steiner Skolen i Vejle,55.67168428125,9.53290218125
 Schools,Baaring Efterskole,55.48654786,9.9110573
-Schools,Nordbyskolen,54.801957314285715,11.882607642857142
-Schools,Alsmic Produktionsværksted,54.9801739,9.884961916666665
-Schools,Rønde Højskole,56.303146559259254,10.477319292592592
-Schools,Han Herreders Ungdomsskole,57.05833362857143,9.279094028571427
+Schools,Nordbyskolen,54.80195731428572,11.882607642857142
+Schools,Alsmic Produktionsværksted,54.9801739,9.884961916666663
+Schools,Rønde Højskole,56.30314655925925,10.477319292592592
+Schools,Han Herreders Ungdomsskole,57.05833362857143,9.279094028571429
 Schools,Sønderborg International School,54.921344675,9.7808471875
 Schools,Sindal Privatskole og Børnehus,57.4593007,10.241553766666666
 Schools,Øsby Skole,55.25118099090909,9.644972954545455
@@ -1629,7 +2428,7 @@ Schools,Rebild Efterskole,56.83266563333333,9.854754216666665
 Schools,Harte Skole,55.5111122,9.417255970588236
 Schools,Hyllehøjskolen,55.48512345,9.787533083333331
 Schools,Munkebo Skole,55.45343378125,10.5410669875
-Schools,Langeskov Skole - Afd. Pilen,55.35788872727273,10.578031518181819
+Schools,Langeskov Skole - Afd. Pilen,55.35788872727273,10.57803151818182
 Schools,Langeskov Skole - Afd. Bakken,55.35626350625,10.60012874375
 Schools,Nørrebjergskolen,55.36105993571429,10.476690021428572
 Schools,Tingagerskolen,55.230848461538464,10.48628986153846
@@ -1647,13 +2446,13 @@ Schools,Eisbjerghus Efterskole,55.458023485714286,9.873224857142857
 Schools,Nørre Åby Efterskole,55.455074713333325,9.88930273333333
 Schools,Kolt Skole,56.11006326190476,10.07459698095238
 Schools,Bavnehøj Skole,56.1059887,10.09424789
-Schools,Hørningskolen,56.089593727777775,10.032609172222221
+Schools,Hørningskolen,56.089593727777775,10.03260917222222
 Schools,CSU Kalundborg,55.68194840833333,11.073486283333333
-Schools,Tirstrup Idrætsefterskole,56.30021355,10.687919616666665
+Schools,Tirstrup Idrætsefterskole,56.30021355,10.687919616666663
 Schools,Hundslund Skole,55.91449606111111,10.052278027777776
 Schools,Ranum Skole & LBO,56.90066532,9.2353714
 Schools,Gødvad Efterskole,56.177137733333325,9.597228766666666
-Schools,Rudolf Steiner Skolen Silkeborg,56.18031121111111,9.592177266666665
+Schools,Rudolf Steiner Skolen Silkeborg,56.18031121111111,9.592177266666663
 Schools,C. la Cours Skole,56.464518616666666,10.015628683333333
 Schools,Ebeltoft Skole,56.19339893333333,10.682482027777777
 Schools,Skolefritidsordning,56.16667953333333,10.132240733333331
@@ -1664,10 +2463,10 @@ Schools,Sundhøjskolen,55.03946998888889,10.614532377777776
 Schools,Nors Skole,57.02241308571429,8.670466007142858
 Schools,Odder Gymnasium,55.972116071428566,10.167816257142857
 Schools,Sundeved Efterskole,54.996700065384616,9.580969919230768
-Schools,Skovbo Efterskole,55.45046838,11.971057926666665
+Schools,Skovbo Efterskole,55.45046838,11.971057926666663
 Schools,Skanderup Efterskole,55.46442398571429,9.344544235714284
 Schools,Deutsche Privatschule Pattburg,54.82507093333333,9.36423948888889
-Schools,Hotherskolen,55.34587177647058,12.237839264705881
+Schools,Hotherskolen,55.34587177647058,12.23783926470588
 Schools,Bremdal Skole,56.51186046666666,8.582467933333334
 Schools,Brovandeskolen,57.7345921,10.586834957142855
 Schools,Lundehusskolen,55.71802543636364,12.54559049090909
@@ -2161,10 +2960,10 @@ Schools,Tønballe Naturcenter,55.8118598,10.051135
 Schools,Bjergby - Mygdal Skole,57.5150303,10.0241714
 Schools,Bagsværd Kostskole,55.7699438,12.4457342
 Schools,Østerbroskolen,54.7531136,11.8939748
-Restaurants,Bregninge Kro,55.02228485483871,10.607069803225807
+Restaurants,Bregninge Kro,55.02228485483871,10.607069803225809
 Restaurants,Feggesund Kro,56.97344554152047,8.921268351754387
 Restaurants,Hvalpsund Færgekro,56.69933049032257,9.192930119354838
-Restaurants,Niels Bugges Kro,56.38871594117647,9.337584735294115
+Restaurants,Niels Bugges Kro,56.38871594117647,9.337584735294117
 Restaurants,Rask Mølle Kro,55.87372549375,9.613941875
 Restaurants,Restaurant Kastrup Strandpark,55.64064980555556,12.652292672222222
 Restaurants,Orangeriet,55.68460415555556,12.582119355555555
@@ -2181,10 +2980,10 @@ Restaurants,Møllehuset,57.41980407,10.51172096
 Restaurants,Restaurant 56 grader,55.68425728,12.6103327
 Restaurants,Restaurant Kanalen,55.67557524,12.5931137
 Restaurants,Udsigten,55.404244047619045,12.289833904761904
-Restaurants,Restaurant Skamlingsbanken,55.418753371428565,9.566166621428573
-Restaurants,Strandparken,55.51078676923077,9.637012538461537
+Restaurants,Restaurant Skamlingsbanken,55.418753371428565,9.566166621428572
+Restaurants,Strandparken,55.51078676923077,9.637012538461535
 Restaurants,Bramdrupdam Kro og Hotel,55.523313464285714,9.463077642857142
-Restaurants,Gjestgiveriet Den Gamle Grænsekro Frederikshøj,55.38023098421053,9.480140405263155
+Restaurants,Gjestgiveriet Den Gamle Grænsekro Frederikshøj,55.38023098421053,9.480140405263157
 Restaurants,Pennas Restaurant,57.46337736153846,10.535703638461538
 Restaurants,Skavenhus restauranten,55.89326558333333,8.362327225
 Restaurants,Jensens Bøfhus,55.509320842857136,8.455273514285713
@@ -2196,10 +2995,10 @@ Restaurants,Thunø Kro,55.949119,10.44380248
 Restaurants,Restaurant Kastrupfortet,55.6486416,12.64021228
 Restaurants,Pandekagehuset Kvie Sø,55.7285390875,8.77056864375
 Restaurants,Restaurant Parken,55.488354281818175,8.440898727272726
-Restaurants,Schackenborg Slotskro,54.942057222222225,8.807707377777778
+Restaurants,Schackenborg Slotskro,54.94205722222223,8.807707377777778
 Restaurants,Christianshøjkroen,55.1215531,14.906459133333332
 Restaurants,Rådvad Kro,55.80670728888889,12.559348855555555
-Restaurants,Gerlev Kro og Hotel,55.823272182352945,12.012725388235294
+Restaurants,Gerlev Kro og Hotel,55.82327218235295,12.012725388235294
 Restaurants,"Feriecentrets Restaurant, Arrild Ferieby",55.15434028666667,8.95623082
 Restaurants,Ganløse Kro,55.793553084615375,12.26288776153846
 Restaurants,Hos Bagger,55.360650314285714,10.339030185714284
@@ -2215,7 +3014,7 @@ Restaurants,Smokehouse Langør,55.91126622,10.64255438
 Restaurants,Restaurant Ridehuset,55.24846364,9.49485444
 Restaurants,Golf Salonen,56.45092324375,9.42092085
 Restaurants,Sønderby kro,55.737064257142855,12.030056821428571
-Restaurants,Madklubben,55.466975228571435,8.449983142857143
+Restaurants,Madklubben,55.46697522857144,8.449983142857143
 Restaurants,Ellegaarden,55.952848044,12.25115954
 Restaurants,Esbjerg Street Food - Det Gamle Teater,55.4656795,8.45279108888889
 Restaurants,Fasaneriet,55.60689288,11.94817786
@@ -2225,7 +3024,7 @@ Restaurants,Chr. VI Overdrevskro,55.50112455555556,11.8792153
 Restaurants,Blommenslyst Kro,55.39009741666666,10.262652833333332
 Restaurants,Korporalskroen,55.557597881818175,12.219700836363636
 Restaurants,Kanal-Kroen,55.1773838,11.648457716666666
-Restaurants,Søllerød Kro,55.813701790476195,12.495071014285713
+Restaurants,Søllerød Kro,55.8137017904762,12.495071014285712
 Restaurants,Charlottenlund Fort,55.745454742857135,12.587776371428571
 Restaurants,Blokhus Fiskerestaurant,57.25254841379311,9.58614696551724
 Restaurants,Hune Pizza Restaurant,57.2486766,9.6169568
@@ -2257,7 +3056,7 @@ Restaurants,Palmestrandens Ishus,57.46105684,10.5375323
 Restaurants,Højslev kro,56.55008949047619,9.11014041904762
 Restaurants,"Jensens Bøfhus, Aalborg City Syd",57.00582353809524,9.874046947619048
 Restaurants,Skovpavillonen,55.512695,8.90939179090909
-Restaurants,La Posta,55.269688252173914,9.891194408695652
+Restaurants,La Posta,55.26968825217392,9.891194408695652
 Restaurants,Den Røde Cottage,55.78297886,12.5907547
 Restaurants,Kaj Kok,54.98911818571429,12.375349828571428
 Restaurants,Outpost Grill,55.73681871111111,9.123264844444444
@@ -2274,7 +3073,7 @@ Restaurants,Bagenkop Kro,54.7495771,10.675821153846153
 Restaurants,Den Kinesiske Mur,56.80277278888889,9.520737911111112
 Restaurants,Jelling Kro,55.75776305,9.41851350625
 Restaurants,Strandmøllekroen,55.80645438571429,12.582942
-Restaurants,A Hereford Beefstouw,56.576079430769234,9.049892830769231
+Restaurants,A Hereford Beefstouw,56.576079430769234,9.049892830769233
 Restaurants,Agerskov Kro og Hotel,55.13032454761905,9.12952049047619
 Restaurants,Rong Yu,56.03337971111111,9.929439355555555
 Restaurants,Nexø Gamle Røgeri,55.07204923846154,15.140869492307692
@@ -2285,10 +3084,10 @@ Restaurants,Fur Færgekro,56.80457941111111,9.02063753888889
 Restaurants,Bregninge Mølle,55.02579733846154,10.612863492307692
 Restaurants,Gamle Røgeri,57.1220472,8.60502606
 Restaurants,Skovmøllen,56.23763445555556,10.583292677777775
-Restaurants,Restaurant Svanelunden,57.455746272727275,9.984877881818178
+Restaurants,Restaurant Svanelunden,57.45574627272728,9.984877881818178
 Restaurants,Byens Grill House,55.24604754,9.39716178
 Restaurants,Ribehøj,55.435381166666666,8.913291666666666
-Restaurants,Svostrup Kro,56.223496103333325,9.668019056666665
+Restaurants,Svostrup Kro,56.223496103333325,9.668019056666664
 Restaurants,Weis Stue,55.3285379,8.762255516666666
 Restaurants,Restaurant Arken,55.47055912,12.196812024
 Restaurants,Flintehuset,54.82264757777778,11.5044937
@@ -2299,7 +3098,7 @@ Restaurants,Hjarbæk Kro,56.53010464705881,9.318918458823529
 Restaurants,Carl's Old Inn,55.6914642,12.46286328
 Restaurants,Cafe Fisk,57.58715483333333,10.187234808333333
 Restaurants,Nybro Kro,55.774083385714285,12.4696803
-Restaurants,Ans Kro,56.308279582352945,9.5908255
+Restaurants,Ans Kro,56.30827958235295,9.5908255
 Restaurants,Hodde Kro,55.69688072,8.64889732
 Restaurants,Purhus Kro,56.5433677826087,9.880589504347826
 Restaurants,Lønne Familie Restaurant,55.79196376923077,8.2361137
@@ -2307,16 +3106,16 @@ Restaurants,Min Restaurant Hjørring,57.44555582,9.99501356
 Restaurants,Restaurant Gammel Høver,56.148059388,9.891837896
 Restaurants,Margeritten,55.27628288571429,14.802483585714285
 Restaurants,Lyngkroen,55.93826314545455,11.703469072727271
-Restaurants,Hotel Abildgård,55.252928278947365,14.820515384210527
+Restaurants,Hotel Abildgård,55.252928278947365,14.820515384210529
 Restaurants,Strandby Badehotel Restaurant,57.49399943076923,10.498557053846152
 Restaurants,Søvind Kro,55.89344379411765,10.002802694117648
 Restaurants,Fjordhotel Augustenborg,54.94210652608696,9.873647239130433
 Restaurants,Vilhelmsborg kro,56.47944752941176,8.298317852941176
 Restaurants,Sandvad Kro,55.981125138461536,9.723477269230768
 Restaurants,Vester Skerninge Kro,55.07411036521739,10.45990405652174
-Restaurants,Djengis Khan - Mongolian Barbecue,54.908623045454554,9.788051409090908
+Restaurants,Djengis Khan - Mongolian Barbecue,54.90862304545456,9.788051409090908
 Restaurants,Mønsted Kro,56.44266448125,9.19176295625
-Restaurants,Kongekilden,55.77212033076923,12.560378438461537
+Restaurants,Kongekilden,55.77212033076923,12.560378438461536
 Restaurants,Årre Kro,55.57301386666666,8.666277016666665
 Restaurants,Køge Bugt Kro,55.59963868571429,12.34992248095238
 Restaurants,Restaurant Fjorden,54.83120987142857,11.091105414285714
@@ -4996,7 +5795,7 @@ Hospitals,Kolding Sygehus,55.50191815960452,9.48577172562917
 Hospitals,Sønderborg Sygehus,54.916472028,9.785345016
 Hospitals,Psykiatrisk Center Bornholm,55.093381092,14.709160452
 Hospitals,Rigshospitalet - Glostrup,55.670257770114944,12.389203111494252
-Hospitals,"Sygehus Sønderjylland, Aabenraa",55.06303642156863,9.377068428431373
+Hospitals,"Sygehus Sønderjylland, Aabenraa",55.06303642156863,9.377068428431372
 Hospitals,Psykiatrien i Region Syddanmark,55.06489373522727,9.375894189772728
 Hospitals,Sundhedshuset,55.70762308181818,9.517111509090908
 Hospitals,"Regionshospital Nordjylland, Frederikshavn",57.44597225942029,10.533632375362318
@@ -5023,16 +5822,16 @@ Hospitals,Aarhus Universitetshospital,56.19035890294118,10.171370726470588
 Hospitals,Skanderborg Sundhedscenter,56.034085484,9.92837232
 Hospitals,Hospice Limfjord,56.573177557142856,9.028313238095238
 Hospitals,Nordsjællands Hospital – Frederikssund,55.84879803125,12.08478684375
-Hospitals,Ærø Sygehus,54.892664762222225,10.40612328
+Hospitals,Ærø Sygehus,54.89266476222223,10.40612328
 Hospitals,Sundhedsområdet Klostergården,55.50087923076923,9.48235286153846
 Hospitals,Psykiatrisk Center Nordsjælland - Afdeling Hillerød,55.930034194444445,12.327540477777776
 Hospitals,"Psykiatricenter Vest, Esbjerg",55.49410707692308,8.442659692307693
 Hospitals,Sct. Maria Hospice Center,55.72601231904762,9.596347109523808
-Hospitals,Psykiatrisk Center Amager,55.6433262225256,12.585983789078497
+Hospitals,Psykiatrisk Center Amager,55.6433262225256,12.585983789078496
 Hospitals,Arresødal Hospice,55.97673546,12.0313071
 Hospitals,Aalborg Universitetshospital,57.038231258461536,9.906407486153846
 Hospitals,Aleris-Hamlet Herning,56.13221791666666,8.98574818888889
-Hospitals,Patienthotellet Regionshospital Viborg,56.44477597105263,9.406134610526317
+Hospitals,Patienthotellet Regionshospital Viborg,56.44477597105263,9.406134610526315
 Hospitals,Bornholms Hospital,55.09193985,14.70691598125
 Hospitals,Amager Hospital - Hans Bogbinders Allé,55.65450875555556,12.608335144444444
 Hospitals,Hillerød Hospital,55.93120034166667,12.326709966666666
@@ -5043,7 +5842,7 @@ Hospitals,Lægerne i Gelsted,55.395215821428565,9.968285771428572
 Hospitals,Svendborg Sygehus,55.05572125384615,10.605320376923077
 Hospitals,OUH Svendborg Sygehus,55.05619150208333,10.60835898125
 Hospitals,Hospice Sønderjylland,55.24621720512821,9.444466571794871
-Hospitals,Rehabiliteringscentret Hedebo,55.594041270930234,12.248839344186045
+Hospitals,Rehabiliteringscentret Hedebo,55.59404127093024,12.248839344186043
 Hospitals,Frederiksberg Hospital,55.686727276470585,12.522921476470588
 Hospitals,Støttecenter Saxenhøj,54.80325731896552,11.626352996551724
 Hospitals,Regionshospitalet Horsens,55.86328993478261,9.873573465217392
@@ -5060,11 +5859,11 @@ Hospitals,Psykiatrisk Center Sct. Hans,55.65120973333333,12.068276966666666
 Hospitals,Mølholm,56.11815476470588,10.190562835294116
 Hospitals,Privathospitalet Kollund,54.840320419444446,9.454528147222222
 Hospitals,"Aalborg Universitetshospital, Psykiatrien",57.02607576,9.97845078
-Hospitals,"Aalborg Universitetshospital, Farsø",56.77710456470588,9.338204823529411
+Hospitals,"Aalborg Universitetshospital, Farsø",56.77710456470588,9.338204823529413
 Hospitals,Samsø Sundheds- og Akuthus,55.83088261666666,10.591052316666666
 Hospitals,Ringsted Sygehus,55.45010988,11.79064964
 Hospitals,"Sjællands Universitetshospital, Køge",55.476885472,12.165657394
-Hospitals,Psykiatrisk Afdeling Middelfart,55.495004893939395,9.733796207575757
+Hospitals,Psykiatrisk Afdeling Middelfart,55.4950048939394,9.733796207575756
 Hospitals,Regionshospitalet Lemvig,56.549699110344825,8.31456395172414
 Hospitals,Center for det Maritime Sundhedsvæsen,55.44989084230769,8.402794303846154
 Hospitals,Privathospitalet Mølholm,55.698951484375,9.538371834375
@@ -5151,16 +5950,16 @@ Malls,Asnæs Centret,55.81256545952381,11.500558070238096
 Malls,Næstved Megacenter,55.25356922058824,11.788471026470589
 Malls,Illum,55.67946005454546,12.58036978181818
 Malls,Tårnby Torv,55.63061632,12.60082524
-Malls,,55.781664959090904,12.481301663636364
+Malls,,55.7816649590909,12.481301663636364
 Malls,Herlev Bymidte,55.723651034782606,12.439457724782608
 Malls,Lollands Centret,54.77429722,11.50545131
 Malls,Tranbjergcentret,56.09103758277777,10.136182131111113
 Malls,Friis,57.04745854482759,9.92647603103448
 Malls,Brøndby Strand Centrum,55.622094920024416,12.421892351892552
 Malls,Skejby Centret,56.19392288709677,10.194089125806451
-Malls,Taastrup Torv,55.651880211414145,12.30202041050505
-Malls,Slotsarkaderne,55.929108038372085,12.298652553217053
-Malls,Bazar Vest,56.163243280952386,10.133587414285714
+Malls,Taastrup Torv,55.65188021141415,12.30202041050505
+Malls,Slotsarkaderne,55.929108038372085,12.298652553217051
+Malls,Bazar Vest,56.16324328095239,10.133587414285714
 Malls,Veri Center,56.18892633315508,10.215712154010696
 Malls,Jyllinge Centret,55.74994561176471,12.108068384313723
 Malls,Esbjerg Storcenter,55.5084181575,8.4490700325
@@ -5204,7 +6003,7 @@ Malls,Vestsjællandscenteret,55.40632849298245,11.354634849122808
 Malls,Varde Centret,55.61484465454546,8.485246709090909
 Malls,Kolding Storcenter,55.51393821851852,9.460544696296296
 Malls,Bramdrupdam Center,55.52201865714286,9.479333835714284
-Malls,Nørreport Centret,56.362027878260875,8.619808821739129
+Malls,Nørreport Centret,56.36202787826088,8.619808821739129
 Malls,Værebro Centeret,55.7575537125,12.439598433333332
 Malls,Spinderiet,55.66478501162791,12.511369176744186
 Malls,Snellemarkcentret,55.101585832,14.69376091
@@ -5225,7 +6024,7 @@ Malls,J.P. Jacobsen Shoppingcenter,56.95437521111111,8.691332911111111
 Malls,Sanct Mathias Centret,56.44874361666666,9.4049934
 Malls,Grantoftecentret,55.72718398421053,12.343159610526316
 Malls,Hedegårdscentret,55.71887573636364,12.358022454545454
-Malls,Farsø Rådhuscenter,56.772029829850744,9.34186658955224
+Malls,Farsø Rådhuscenter,56.77202982985074,9.34186658955224
 Malls,Midt-I,55.46617985,8.45275655
 Malls,Dianalund Centret,55.52681736444445,11.497700942222222
 Malls,Høng Centret,55.50457056470588,11.289561170588236
@@ -5247,16 +6046,16 @@ Malls,Langeskovcentret,55.36029774358975,10.589525287179487
 Malls,Tranekærcentret,56.474256875,10.01175745
 Malls,BIG Shopping,55.71844340625,12.44850770625
 Malls,Folkebos Butikstorv,55.375144424,10.395693452
-Malls,Kronen Vanløse,55.687693177551026,12.492406124489795
+Malls,Kronen Vanløse,55.68769317755103,12.492406124489795
 Malls,Å centeret,55.7063963,9.531470128571428
 Malls,Svendborg Bycenter,55.05979805555556,10.604878505555556
-Malls,Bloms Butikker,56.03327252857143,9.930868261904761
+Malls,Bloms Butikker,56.03327252857143,9.93086826190476
 Malls,Broen Shopping,55.465906084375,8.45814509375
 Malls,Blåkilde Centret,55.64259134285714,12.310965410714283
 Malls,Rosengårdcentret,55.38383545755396,10.426807486330937
 Malls,Mega Syd,56.11653398666667,10.152696191111112
 Malls,Ringsted Outlet,55.45172186363636,11.785807406060606
-Malls,Stenager Center,54.923511807692314,9.809309792307692
+Malls,Stenager Center,54.92351180769232,9.809309792307692
 Malls,Egedal Centret,55.76815014333333,12.193369253333332
 Malls,Lavhedecentret,56.3758195125,8.61698248125
 Malls,Bryggen,55.70498723125,9.531049075
