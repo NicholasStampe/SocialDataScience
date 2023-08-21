@@ -6,7 +6,6 @@ Our repository consists of 7 Jupyter notebooks, labeled sequentially from 1 to 7
 
 ## Execution Order:
 1. **1_BoligPortalen_data.ipynb** is our first notebook, focusing on data collection from Boligportalen. This code facilitates the scraping of rental prices along with structural data. As a result of our scraping, we generated a CSV file named 1_boligportalen.csv encompassing all harvested data. Moreover, this notebook yields another file, 1_Final_urls.csv, which holds the URLs for each apartment under our study.
-
 *Note: We've adjusted the script for the sake of inspection, limiting the run to the first 20 pages on Boligportalen, rather than the comprehensive 960 pages. Output data is saved to a new CSV, ensuring the original dataset remains intact. If you wish to revert to the extensive scrape, simply adjust the iteration count back to 960 and rename the resulting CSV file accordingly.*
 
 2. **2_Geospatial_data.ipynb** serves as our second notebook, dedicated to the collection of geospatial data via an API. The gathered geospatial information is then stored in the 2_Final_Geospatial_data.csv file.
